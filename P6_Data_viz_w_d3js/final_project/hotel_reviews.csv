@@ -1,0 +1,1508 @@
+,Review_year,Review_month,Reviewer_country,Rating,hotel_location,hotel
+0,2016,12,,1.0,beijing,alpha
+1,2016,11,,4.0,beijing,alpha
+2,2016,10,Singapore,4.0,beijing,alpha
+3,2016,10,United States,5.0,beijing,alpha
+4,2016,10,Cambodia,5.0,beijing,alpha
+5,2016,10,Singapore,5.0,beijing,alpha
+6,2016,7,China,2.0,beijing,alpha
+7,2016,7,,5.0,beijing,alpha
+8,2016,7,,5.0,beijing,alpha
+9,2016,2,Switzerland,5.0,beijing,alpha
+10,2015,8,India,5.0,beijing,alpha
+11,2014,11,United States,4.0,beijing,alpha
+12,2014,10,Canada,1.0,beijing,alpha
+13,2014,10,Singapore,3.0,beijing,alpha
+14,2014,9,,5.0,beijing,alpha
+15,2014,7,India,5.0,beijing,alpha
+16,2014,7,China,3.0,beijing,alpha
+17,2014,6,,4.0,beijing,alpha
+18,2014,5,Hong Kong,5.0,beijing,alpha
+19,2014,4,Malaysia,4.0,beijing,alpha
+20,2014,3,United States,5.0,beijing,alpha
+21,2013,12,Singapore,4.0,beijing,alpha
+22,2013,12,,3.0,beijing,alpha
+23,2013,11,France,4.0,beijing,alpha
+24,2013,11,United States,5.0,beijing,alpha
+25,2013,11,New Zealand,4.0,beijing,alpha
+26,2013,10,Malaysia,5.0,beijing,alpha
+27,2013,10,Brunei,4.0,beijing,alpha
+28,2013,10,Australia,5.0,beijing,alpha
+29,2013,10,Australia,4.0,beijing,alpha
+30,2013,10,Singapore,4.0,beijing,alpha
+31,2013,9,Singapore,5.0,beijing,alpha
+32,2013,9,Canada,5.0,beijing,alpha
+33,2013,9,China,4.0,beijing,alpha
+34,2013,8,Gibraltar,5.0,beijing,alpha
+35,2013,8,Romania,5.0,beijing,alpha
+36,2013,6,United States,4.0,beijing,alpha
+37,2013,6,Malaysia,5.0,beijing,alpha
+38,2013,5,United States,4.0,beijing,alpha
+39,2013,5,,4.0,beijing,alpha
+40,2013,4,United States,5.0,beijing,alpha
+41,2013,4,Hong Kong,4.0,beijing,alpha
+42,2013,4,Australia,5.0,beijing,alpha
+43,2013,3,,5.0,beijing,alpha
+44,2013,3,South Korea,4.0,beijing,alpha
+45,2013,1,Singapore,4.0,beijing,alpha
+46,2013,1,United States,5.0,beijing,alpha
+47,2012,12,Brazil,5.0,beijing,alpha
+48,2012,12,Singapore,5.0,beijing,alpha
+49,2012,12,Singapore,5.0,beijing,alpha
+50,2012,11,United States,5.0,beijing,alpha
+51,2012,10,China,5.0,beijing,alpha
+52,2012,10,United States,4.0,beijing,alpha
+53,2012,10,Singapore,5.0,beijing,alpha
+54,2012,10,United States,5.0,beijing,alpha
+55,2012,10,Israel,5.0,beijing,alpha
+56,2012,9,United States,5.0,beijing,alpha
+57,2012,8,United Arab Emirates,5.0,beijing,alpha
+58,2012,8,United Kingdom,5.0,beijing,alpha
+59,2012,8,Malaysia,4.0,beijing,alpha
+60,2012,5,Hong Kong,4.0,beijing,alpha
+61,2012,5,United States,4.0,beijing,alpha
+62,2012,5,Canada,4.0,beijing,alpha
+63,2012,5,Singapore,5.0,beijing,alpha
+64,2012,5,Egypt,3.0,beijing,alpha
+65,2012,4,Australia,4.0,beijing,alpha
+66,2012,4,,4.0,beijing,alpha
+67,2012,4,Australia,4.0,beijing,alpha
+68,2012,3,Australia,4.0,beijing,alpha
+69,2012,3,Singapore,4.0,beijing,alpha
+70,2012,1,China,3.0,beijing,alpha
+71,2012,1,Philippines,4.0,beijing,alpha
+72,2012,1,Singapore,2.0,beijing,alpha
+73,2012,1,Singapore,5.0,beijing,alpha
+74,2011,12,Thailand,4.0,beijing,alpha
+75,2011,11,Hong Kong,3.0,beijing,alpha
+76,2011,9,United Kingdom,5.0,beijing,alpha
+77,2011,9,United States,4.0,beijing,alpha
+78,2011,8,Netherlands,2.0,beijing,alpha
+79,2011,8,United States,5.0,beijing,alpha
+80,2011,8,United States,5.0,beijing,alpha
+81,2011,7,United States,4.0,beijing,alpha
+82,2011,7,United States,5.0,beijing,alpha
+83,2011,7,Norway,3.0,beijing,alpha
+84,2011,7,New Zealand,5.0,beijing,alpha
+85,2011,6,Hong Kong,4.0,beijing,alpha
+86,2011,6,United States,4.0,beijing,alpha
+87,2011,4,Australia,4.0,beijing,alpha
+88,2011,4,Canada,4.0,beijing,alpha
+89,2011,4,,5.0,beijing,alpha
+90,2011,3,United States,4.0,beijing,alpha
+91,2010,12,Singapore,5.0,beijing,alpha
+92,2010,11,Philippines,4.0,beijing,alpha
+93,2010,10,Hungary,5.0,beijing,alpha
+94,2010,8,Israel,4.0,beijing,alpha
+95,2010,8,Canada,5.0,beijing,alpha
+96,2010,7,Hong Kong,4.0,beijing,alpha
+97,2010,6,Australia,3.0,beijing,alpha
+98,2010,5,China,4.0,beijing,alpha
+99,2010,5,Singapore,5.0,beijing,alpha
+100,2010,1,,4.0,beijing,alpha
+101,2009,11,Malaysia,5.0,beijing,alpha
+102,2009,11,Italy,5.0,beijing,alpha
+103,2009,10,United Kingdom,3.0,beijing,alpha
+104,2009,9,United States,5.0,beijing,alpha
+105,2009,9,,4.0,beijing,alpha
+106,2009,9,United States,4.0,beijing,alpha
+107,2009,9,,4.0,beijing,alpha
+108,2009,8,Singapore,2.0,beijing,alpha
+109,2009,8,,4.0,beijing,alpha
+110,2009,8,Canada,5.0,beijing,alpha
+111,2009,7,United States,4.0,beijing,alpha
+112,2009,7,United States,2.0,beijing,alpha
+113,2009,5,Singapore,5.0,beijing,alpha
+114,2009,5,,4.0,beijing,alpha
+115,2009,5,,3.0,beijing,alpha
+116,2009,4,,3.0,beijing,alpha
+117,2009,4,,4.0,beijing,alpha
+118,2009,4,Japan,4.0,beijing,alpha
+119,2009,4,,4.0,beijing,alpha
+120,2009,4,,4.0,beijing,alpha
+121,2009,4,,4.0,beijing,alpha
+122,2009,3,,4.0,beijing,alpha
+123,2009,3,Canada,4.0,beijing,alpha
+124,2009,3,,4.0,beijing,alpha
+125,2009,1,United States,5.0,beijing,alpha
+126,2008,11,United States,4.0,beijing,alpha
+127,2008,11,France,5.0,beijing,alpha
+128,2008,9,United States,4.0,beijing,alpha
+129,2008,8,United States,5.0,beijing,alpha
+130,2008,6,China,5.0,beijing,alpha
+131,2008,5,United States,3.0,beijing,alpha
+132,2007,11,Australia,5.0,beijing,alpha
+133,2007,11,United States,4.0,beijing,alpha
+134,2007,9,Australia,5.0,beijing,alpha
+135,2007,4,United States,3.0,beijing,alpha
+136,2006,10,United Kingdom,4.0,beijing,alpha
+137,2006,10,United States,5.0,beijing,alpha
+138,2006,7,United States,4.0,beijing,alpha
+139,2005,11,,5.0,beijing,alpha
+140,2017,1,Singapore,5.0,chengdu,alpha
+141,2016,12,China,4.0,chengdu,alpha
+142,2016,12,Italy,5.0,chengdu,alpha
+143,2016,12,United States,5.0,chengdu,alpha
+144,2016,12,Singapore,5.0,chengdu,alpha
+145,2016,12,Australia,5.0,chengdu,alpha
+146,2016,11,China,4.0,chengdu,alpha
+147,2016,10,Italy,4.0,chengdu,alpha
+148,2016,9,Singapore,5.0,chengdu,alpha
+149,2016,9,Singapore,4.0,chengdu,alpha
+150,2016,9,Australia,5.0,chengdu,alpha
+151,2016,8,Italy,5.0,chengdu,alpha
+152,2016,8,Singapore,5.0,chengdu,alpha
+153,2016,8,China,5.0,chengdu,alpha
+154,2016,8,Ireland,5.0,chengdu,alpha
+155,2016,8,Italy,5.0,chengdu,alpha
+156,2016,7,United States,5.0,chengdu,alpha
+157,2016,6,Singapore,5.0,chengdu,alpha
+158,2016,6,Singapore,5.0,chengdu,alpha
+159,2016,6,Canada,5.0,chengdu,alpha
+160,2016,6,India,4.0,chengdu,alpha
+161,2016,6,Hong Kong,4.0,chengdu,alpha
+162,2016,5,China,5.0,chengdu,alpha
+163,2016,4,Italy,5.0,chengdu,alpha
+164,2016,4,Hungary,4.0,chengdu,alpha
+165,2016,3,Italy,5.0,chengdu,alpha
+166,2016,3,China,5.0,chengdu,alpha
+167,2016,2,United States,5.0,chengdu,alpha
+168,2016,2,China,5.0,chengdu,alpha
+169,2016,1,Singapore,4.0,chengdu,alpha
+170,2016,1,Singapore,5.0,chengdu,alpha
+171,2015,12,U.S. Virgin Islands,3.0,chengdu,alpha
+172,2015,10,United States,2.0,chengdu,alpha
+173,2015,10,United States,5.0,chengdu,alpha
+174,2015,9,Australia,5.0,chengdu,alpha
+175,2015,9,Singapore,3.0,chengdu,alpha
+176,2015,8,Iceland,4.0,chengdu,alpha
+177,2015,8,Italy,5.0,chengdu,alpha
+178,2015,8,South Korea,5.0,chengdu,alpha
+179,2015,8,United Kingdom,5.0,chengdu,alpha
+180,2015,7,Hong Kong,3.0,chengdu,alpha
+181,2015,6,China,5.0,chengdu,alpha
+182,2015,6,Hong Kong,5.0,chengdu,alpha
+183,2015,5,Singapore,4.0,chengdu,alpha
+184,2015,5,Italy,3.0,chengdu,alpha
+185,2015,4,Maldives,5.0,chengdu,alpha
+186,2015,4,Hong Kong,5.0,chengdu,alpha
+187,2015,4,Canada,5.0,chengdu,alpha
+188,2015,4,China,5.0,chengdu,alpha
+189,2015,3,Canada,5.0,chengdu,alpha
+190,2015,3,Italy,5.0,chengdu,alpha
+191,2015,2,China,4.0,chengdu,alpha
+192,2015,1,Saudi Arabia,5.0,chengdu,alpha
+193,2015,1,Hong Kong,5.0,chengdu,alpha
+194,2015,1,Italy,5.0,chengdu,alpha
+195,2014,11,China,5.0,chengdu,alpha
+196,2014,9,Singapore,5.0,chengdu,alpha
+197,2014,8,Singapore,4.0,chengdu,alpha
+198,2014,8,United States,5.0,chengdu,alpha
+199,2014,6,Hong Kong,3.0,chengdu,alpha
+200,2014,5,China,4.0,chengdu,alpha
+201,2014,5,China,4.0,chengdu,alpha
+202,2014,5,United States,5.0,chengdu,alpha
+203,2014,5,France,2.0,chengdu,alpha
+204,2014,4,China,5.0,chengdu,alpha
+205,2014,4,France,5.0,chengdu,alpha
+206,2014,4,Finland,3.0,chengdu,alpha
+207,2014,4,Sweden,1.0,chengdu,alpha
+208,2014,4,China,4.0,chengdu,alpha
+209,2014,4,Australia,5.0,chengdu,alpha
+210,2014,3,China,5.0,chengdu,alpha
+211,2014,3,Singapore,5.0,chengdu,alpha
+212,2014,2,China,5.0,chengdu,alpha
+213,2014,2,Singapore,5.0,chengdu,alpha
+214,2014,2,China,5.0,chengdu,alpha
+215,2013,12,China,4.0,chengdu,alpha
+216,2013,12,China,5.0,chengdu,alpha
+217,2016,12,China,5.0,guangzhou,alpha
+218,2016,12,United Kingdom,1.0,guangzhou,alpha
+219,2016,11,,5.0,guangzhou,alpha
+220,2016,11,Austria,5.0,guangzhou,alpha
+221,2016,11,United States,5.0,guangzhou,alpha
+222,2016,10,China,4.0,guangzhou,alpha
+223,2016,8,India,5.0,guangzhou,alpha
+224,2016,8,United States,5.0,guangzhou,alpha
+225,2016,8,Malaysia,5.0,guangzhou,alpha
+226,2016,7,Singapore,5.0,guangzhou,alpha
+227,2016,7,Indonesia,5.0,guangzhou,alpha
+228,2016,7,Philippines,5.0,guangzhou,alpha
+229,2016,6,Hong Kong,5.0,guangzhou,alpha
+230,2016,5,,4.0,guangzhou,alpha
+231,2016,4,United Kingdom,4.0,guangzhou,alpha
+232,2016,3,Philippines,4.0,guangzhou,alpha
+233,2016,3,Singapore,4.0,guangzhou,alpha
+234,2016,1,,4.0,guangzhou,alpha
+235,2016,1,Australia,5.0,guangzhou,alpha
+236,2016,1,Singapore,5.0,guangzhou,alpha
+237,2015,12,Singapore,5.0,guangzhou,alpha
+238,2015,10,China,5.0,guangzhou,alpha
+239,2015,9,India,3.0,guangzhou,alpha
+240,2015,6,,5.0,guangzhou,alpha
+241,2015,5,Kenya,5.0,guangzhou,alpha
+242,2015,5,Malaysia,5.0,guangzhou,alpha
+243,2015,4,,5.0,guangzhou,alpha
+244,2015,2,,5.0,guangzhou,alpha
+245,2015,1,United Kingdom,5.0,guangzhou,alpha
+246,2014,11,,5.0,guangzhou,alpha
+247,2014,11,United Kingdom,4.0,guangzhou,alpha
+248,2014,10,Australia,5.0,guangzhou,alpha
+249,2014,9,Hong Kong,4.0,guangzhou,alpha
+250,2014,9,Kenya,5.0,guangzhou,alpha
+251,2014,7,Malaysia,5.0,guangzhou,alpha
+252,2014,6,,3.0,guangzhou,alpha
+253,2014,6,China,5.0,guangzhou,alpha
+254,2014,5,United Kingdom,4.0,guangzhou,alpha
+255,2014,4,Philippines,5.0,guangzhou,alpha
+256,2014,4,Finland,4.0,guangzhou,alpha
+257,2014,4,United States,4.0,guangzhou,alpha
+258,2014,3,Malaysia,4.0,guangzhou,alpha
+259,2014,3,Australia,5.0,guangzhou,alpha
+260,2014,1,Macau,5.0,guangzhou,alpha
+261,2013,11,Hong Kong,4.0,guangzhou,alpha
+262,2013,11,Australia,4.0,guangzhou,alpha
+263,2013,10,Malaysia,4.0,guangzhou,alpha
+264,2013,10,,4.0,guangzhou,alpha
+265,2013,10,China,5.0,guangzhou,alpha
+266,2013,9,Thailand,5.0,guangzhou,alpha
+267,2013,9,,4.0,guangzhou,alpha
+268,2013,7,Hong Kong,3.0,guangzhou,alpha
+269,2013,6,,5.0,guangzhou,alpha
+270,2013,6,China,4.0,guangzhou,alpha
+271,2013,4,Ecuador,5.0,guangzhou,alpha
+272,2013,3,Singapore,2.0,guangzhou,alpha
+273,2013,3,Australia,5.0,guangzhou,alpha
+274,2013,2,Singapore,5.0,guangzhou,alpha
+275,2013,1,Australia,5.0,guangzhou,alpha
+276,2012,12,Singapore,5.0,guangzhou,alpha
+277,2012,12,United States,4.0,guangzhou,alpha
+278,2012,11,Hong Kong,4.0,guangzhou,alpha
+279,2012,11,Sweden,4.0,guangzhou,alpha
+280,2012,11,Malaysia,4.0,guangzhou,alpha
+281,2012,11,China,4.0,guangzhou,alpha
+282,2012,10,United Kingdom,4.0,guangzhou,alpha
+283,2012,10,United States,4.0,guangzhou,alpha
+284,2012,7,Malaysia,5.0,guangzhou,alpha
+285,2012,3,Australia,5.0,guangzhou,alpha
+286,2011,9,Greece,4.0,guangzhou,alpha
+287,2011,7,United States,5.0,guangzhou,alpha
+288,2011,2,China,4.0,guangzhou,alpha
+289,2009,12,,5.0,guangzhou,alpha
+290,2009,11,,5.0,guangzhou,alpha
+291,2009,10,,4.0,guangzhou,alpha
+292,2009,10,,4.0,guangzhou,alpha
+293,2009,8,,5.0,guangzhou,alpha
+294,2009,8,,4.0,guangzhou,alpha
+295,2009,8,Australia,5.0,guangzhou,alpha
+296,2009,7,,5.0,guangzhou,alpha
+297,2016,11,Singapore,5.0,shanghai,alpha
+298,2016,11,United Arab Emirates,4.0,shanghai,alpha
+299,2016,11,United States,2.0,shanghai,alpha
+300,2016,10,United States,4.0,shanghai,alpha
+301,2016,10,Australia,3.0,shanghai,alpha
+302,2016,10,Canada,4.0,shanghai,alpha
+303,2016,8,Italy,1.0,shanghai,alpha
+304,2016,8,Australia,3.0,shanghai,alpha
+305,2016,8,Singapore,5.0,shanghai,alpha
+306,2016,8,Netherlands,3.0,shanghai,alpha
+307,2016,8,United States,5.0,shanghai,alpha
+308,2016,8,United Kingdom,4.0,shanghai,alpha
+309,2016,8,China,5.0,shanghai,alpha
+310,2016,7,China,5.0,shanghai,alpha
+311,2016,7,Italy,4.0,shanghai,alpha
+312,2016,6,Mexico,4.0,shanghai,alpha
+313,2016,6,Singapore,5.0,shanghai,alpha
+314,2016,6,Italy,3.0,shanghai,alpha
+315,2016,5,Australia,4.0,shanghai,alpha
+316,2016,5,Spain,4.0,shanghai,alpha
+317,2016,5,Israel,3.0,shanghai,alpha
+318,2016,4,China,4.0,shanghai,alpha
+319,2016,4,United States,4.0,shanghai,alpha
+320,2016,3,Sweden,3.0,shanghai,alpha
+321,2016,3,China,4.0,shanghai,alpha
+322,2016,3,Singapore,3.0,shanghai,alpha
+323,2016,2,New Zealand,1.0,shanghai,alpha
+324,2016,2,United Kingdom,3.0,shanghai,alpha
+325,2016,2,Australia,4.0,shanghai,alpha
+326,2016,1,United States,2.0,shanghai,alpha
+327,2016,1,Italy,4.0,shanghai,alpha
+328,2015,12,United States,5.0,shanghai,alpha
+329,2015,12,Singapore,4.0,shanghai,alpha
+330,2015,12,United Kingdom,5.0,shanghai,alpha
+331,2015,12,Italy,5.0,shanghai,alpha
+332,2015,12,Italy,3.0,shanghai,alpha
+333,2015,11,New Zealand,5.0,shanghai,alpha
+334,2015,11,Singapore,4.0,shanghai,alpha
+335,2015,11,United States,4.0,shanghai,alpha
+336,2015,10,United Kingdom,3.0,shanghai,alpha
+337,2015,10,Australia,3.0,shanghai,alpha
+338,2015,10,United States,2.0,shanghai,alpha
+339,2015,10,Italy,4.0,shanghai,alpha
+340,2015,10,Thailand,5.0,shanghai,alpha
+341,2015,9,New Zealand,4.0,shanghai,alpha
+342,2015,9,United States,5.0,shanghai,alpha
+343,2015,8,China,4.0,shanghai,alpha
+344,2015,7,Canada,4.0,shanghai,alpha
+345,2015,7,United States,4.0,shanghai,alpha
+346,2015,7,South Korea,3.0,shanghai,alpha
+347,2015,6,China,4.0,shanghai,alpha
+348,2015,6,United States,4.0,shanghai,alpha
+349,2015,5,Netherlands,4.0,shanghai,alpha
+350,2015,5,Italy,5.0,shanghai,alpha
+351,2015,5,Australia,5.0,shanghai,alpha
+352,2015,5,Italy,2.0,shanghai,alpha
+353,2015,5,Singapore,3.0,shanghai,alpha
+354,2015,5,India,2.0,shanghai,alpha
+355,2015,5,Singapore,4.0,shanghai,alpha
+356,2015,5,Australia,4.0,shanghai,alpha
+357,2015,5,New Zealand,4.0,shanghai,alpha
+358,2015,4,Hong Kong,5.0,shanghai,alpha
+359,2015,4,Belgium,4.0,shanghai,alpha
+360,2015,4,Italy,4.0,shanghai,alpha
+361,2015,4,Australia,5.0,shanghai,alpha
+362,2015,4,Canada,4.0,shanghai,alpha
+363,2015,4,Singapore,1.0,shanghai,alpha
+364,2015,3,Australia,5.0,shanghai,alpha
+365,2015,3,Singapore,4.0,shanghai,alpha
+366,2015,3,Hong Kong,3.0,shanghai,alpha
+367,2015,3,Singapore,4.0,shanghai,alpha
+368,2015,1,Singapore,5.0,shanghai,alpha
+369,2014,11,China,5.0,shanghai,alpha
+370,2014,11,Finland,4.0,shanghai,alpha
+371,2014,11,Singapore,2.0,shanghai,alpha
+372,2014,11,Netherlands,4.0,shanghai,alpha
+373,2014,10,United Kingdom,5.0,shanghai,alpha
+374,2014,9,United Kingdom,3.0,shanghai,alpha
+375,2014,8,Australia,3.0,shanghai,alpha
+376,2014,8,Singapore,4.0,shanghai,alpha
+377,2014,6,Australia,4.0,shanghai,alpha
+378,2014,6,China,3.0,shanghai,alpha
+379,2014,6,United States,5.0,shanghai,alpha
+380,2014,6,Singapore,5.0,shanghai,alpha
+381,2014,5,United Kingdom,5.0,shanghai,alpha
+382,2014,5,China,5.0,shanghai,alpha
+383,2014,5,Sweden,2.0,shanghai,alpha
+384,2014,5,Singapore,3.0,shanghai,alpha
+385,2014,4,Singapore,5.0,shanghai,alpha
+386,2014,4,Italy,4.0,shanghai,alpha
+387,2014,4,India,5.0,shanghai,alpha
+388,2014,4,China,5.0,shanghai,alpha
+389,2014,4,Mexico,3.0,shanghai,alpha
+390,2014,3,Italy,5.0,shanghai,alpha
+391,2014,2,Australia,4.0,shanghai,alpha
+392,2014,2,Finland,5.0,shanghai,alpha
+393,2014,2,China,3.0,shanghai,alpha
+394,2014,2,Finland,4.0,shanghai,alpha
+395,2014,1,United States,4.0,shanghai,alpha
+396,2014,1,Germany,5.0,shanghai,alpha
+397,2014,1,Hong Kong,4.0,shanghai,alpha
+398,2014,1,Indonesia,4.0,shanghai,alpha
+399,2013,12,Singapore,4.0,shanghai,alpha
+400,2013,11,United States,4.0,shanghai,alpha
+401,2013,10,United States,4.0,shanghai,alpha
+402,2013,10,United Kingdom,4.0,shanghai,alpha
+403,2013,9,Singapore,3.0,shanghai,alpha
+404,2013,9,Singapore,5.0,shanghai,alpha
+405,2013,9,Indonesia,5.0,shanghai,alpha
+406,2013,9,Italy,5.0,shanghai,alpha
+407,2013,6,Argentina,5.0,shanghai,alpha
+408,2013,5,France,5.0,shanghai,alpha
+409,2013,5,United Kingdom,4.0,shanghai,alpha
+410,2013,5,United Kingdom,3.0,shanghai,alpha
+411,2013,5,Italy,3.0,shanghai,alpha
+412,2013,4,Italy,3.0,shanghai,alpha
+413,2013,4,China,4.0,shanghai,alpha
+414,2013,4,United Kingdom,4.0,shanghai,alpha
+415,2013,4,China,3.0,shanghai,alpha
+416,2013,3,India,4.0,shanghai,alpha
+417,2013,3,Netherlands,4.0,shanghai,alpha
+418,2013,1,Italy,4.0,shanghai,alpha
+419,2012,11,India,5.0,shanghai,alpha
+420,2012,11,United States,4.0,shanghai,alpha
+421,2012,10,Italy,5.0,shanghai,alpha
+422,2012,10,Australia,5.0,shanghai,alpha
+423,2012,10,Singapore,2.0,shanghai,alpha
+424,2012,9,United States,4.0,shanghai,alpha
+425,2012,9,Pakistan,4.0,shanghai,alpha
+426,2012,9,Italy,5.0,shanghai,alpha
+427,2012,8,Singapore,5.0,shanghai,alpha
+428,2012,8,United States,5.0,shanghai,alpha
+429,2012,8,Hong Kong,3.0,shanghai,alpha
+430,2012,8,Finland,5.0,shanghai,alpha
+431,2012,8,Panama,4.0,shanghai,alpha
+432,2012,8,Australia,5.0,shanghai,alpha
+433,2012,8,Singapore,5.0,shanghai,alpha
+434,2012,8,Singapore,4.0,shanghai,alpha
+435,2012,7,Belgium,4.0,shanghai,alpha
+436,2012,7,Italy,4.0,shanghai,alpha
+437,2012,5,China,4.0,shanghai,alpha
+438,2012,5,United States,4.0,shanghai,alpha
+439,2012,5,Brazil,5.0,shanghai,alpha
+440,2012,5,Hong Kong,4.0,shanghai,alpha
+441,2012,4,Denmark,5.0,shanghai,alpha
+442,2012,4,Brazil,3.0,shanghai,alpha
+443,2012,4,Australia,3.0,shanghai,alpha
+444,2012,4,United States,4.0,shanghai,alpha
+445,2012,4,Thailand,1.0,shanghai,alpha
+446,2012,3,United States,4.0,shanghai,alpha
+447,2012,3,Singapore,4.0,shanghai,alpha
+448,2012,2,United Kingdom,5.0,shanghai,alpha
+449,2012,2,New Zealand,4.0,shanghai,alpha
+450,2012,2,United States,5.0,shanghai,alpha
+451,2012,2,Saudi Arabia,4.0,shanghai,alpha
+452,2012,2,Thailand,5.0,shanghai,alpha
+453,2012,2,Philippines,3.0,shanghai,alpha
+454,2012,1,Switzerland,3.0,shanghai,alpha
+455,2012,1,United States,3.0,shanghai,alpha
+456,2011,12,Singapore,4.0,shanghai,alpha
+457,2011,12,Malaysia,2.0,shanghai,alpha
+458,2011,12,France,5.0,shanghai,alpha
+459,2011,11,Italy,5.0,shanghai,alpha
+460,2011,11,India,4.0,shanghai,alpha
+461,2011,11,Philippines,4.0,shanghai,alpha
+462,2011,11,United States,4.0,shanghai,alpha
+463,2011,11,United States,5.0,shanghai,alpha
+464,2011,9,France,4.0,shanghai,alpha
+465,2011,9,United States,4.0,shanghai,alpha
+466,2011,9,Czechia,4.0,shanghai,alpha
+467,2011,8,United States,5.0,shanghai,alpha
+468,2011,8,Malaysia,5.0,shanghai,alpha
+469,2011,7,United States,4.0,shanghai,alpha
+470,2011,6,Canada,5.0,shanghai,alpha
+471,2011,6,Indonesia,4.0,shanghai,alpha
+472,2011,6,Australia,4.0,shanghai,alpha
+473,2011,4,Hong Kong,5.0,shanghai,alpha
+474,2011,4,Thailand,5.0,shanghai,alpha
+475,2011,4,Italy,5.0,shanghai,alpha
+476,2011,4,New Zealand,5.0,shanghai,alpha
+477,2011,3,Singapore,5.0,shanghai,alpha
+478,2011,2,Singapore,5.0,shanghai,alpha
+479,2011,1,China,3.0,shanghai,alpha
+480,2011,1,Australia,5.0,shanghai,alpha
+481,2010,12,Hong Kong,2.0,shanghai,alpha
+482,2010,10,Australia,5.0,shanghai,alpha
+483,2010,10,Malaysia,4.0,shanghai,alpha
+484,2010,9,Singapore,5.0,shanghai,alpha
+485,2010,8,Singapore,5.0,shanghai,alpha
+486,2010,7,Thailand,4.0,shanghai,alpha
+487,2010,5,China,3.0,shanghai,alpha
+488,2016,12,China,5.0,beijing,foxtrot
+489,2016,12,Hong Kong,5.0,beijing,foxtrot
+490,2016,11,Australia,5.0,beijing,foxtrot
+491,2016,10,,5.0,beijing,foxtrot
+492,2016,10,Taiwan,5.0,beijing,foxtrot
+493,2016,9,New Zealand,5.0,beijing,foxtrot
+494,2016,8,China,5.0,beijing,foxtrot
+495,2016,6,,5.0,beijing,foxtrot
+496,2016,6,United Kingdom,5.0,beijing,foxtrot
+497,2016,5,,5.0,beijing,foxtrot
+498,2016,5,Germany,5.0,beijing,foxtrot
+499,2016,5,China,5.0,beijing,foxtrot
+500,2016,5,Germany,5.0,beijing,foxtrot
+501,2016,5,,5.0,beijing,foxtrot
+502,2016,5,,5.0,beijing,foxtrot
+503,2016,5,China,5.0,beijing,foxtrot
+504,2016,5,Singapore,5.0,beijing,foxtrot
+505,2016,4,United States,5.0,beijing,foxtrot
+506,2016,4,China,5.0,beijing,foxtrot
+507,2016,3,Australia,2.0,beijing,foxtrot
+508,2016,3,United States,1.0,beijing,foxtrot
+509,2016,1,Singapore,3.0,beijing,foxtrot
+510,2015,11,,5.0,beijing,foxtrot
+511,2015,8,China,5.0,beijing,foxtrot
+512,2015,7,China,5.0,beijing,foxtrot
+513,2015,7,China,5.0,beijing,foxtrot
+514,2015,7,China,5.0,beijing,foxtrot
+515,2015,7,,5.0,beijing,foxtrot
+516,2015,7,China,5.0,beijing,foxtrot
+517,2015,7,,5.0,beijing,foxtrot
+518,2015,7,China,5.0,beijing,foxtrot
+519,2015,7,,5.0,beijing,foxtrot
+520,2015,7,Singapore,4.0,beijing,foxtrot
+521,2015,6,United States,5.0,beijing,foxtrot
+522,2015,5,,4.0,beijing,foxtrot
+523,2015,4,,4.0,beijing,foxtrot
+524,2015,4,,5.0,beijing,foxtrot
+525,2015,4,Sweden,4.0,beijing,foxtrot
+526,2015,4,China,5.0,beijing,foxtrot
+527,2015,4,United States,5.0,beijing,foxtrot
+528,2015,3,,5.0,beijing,foxtrot
+529,2015,2,,2.0,beijing,foxtrot
+530,2015,2,Indonesia,5.0,beijing,foxtrot
+531,2015,2,China,5.0,beijing,foxtrot
+532,2015,2,,5.0,beijing,foxtrot
+533,2015,1,China,4.0,beijing,foxtrot
+534,2015,1,China,4.0,beijing,foxtrot
+535,2014,12,China,5.0,beijing,foxtrot
+536,2014,12,United States,5.0,beijing,foxtrot
+537,2014,12,Netherlands,5.0,beijing,foxtrot
+538,2014,12,United States,5.0,beijing,foxtrot
+539,2014,11,Japan,5.0,beijing,foxtrot
+540,2014,11,,5.0,beijing,foxtrot
+541,2014,11,China,4.0,beijing,foxtrot
+542,2014,11,China,4.0,beijing,foxtrot
+543,2014,10,Japan,3.0,beijing,foxtrot
+544,2014,10,,5.0,beijing,foxtrot
+545,2014,10,China,4.0,beijing,foxtrot
+546,2014,9,,5.0,beijing,foxtrot
+547,2014,9,,5.0,beijing,foxtrot
+548,2014,9,Malaysia,5.0,beijing,foxtrot
+549,2014,9,,5.0,beijing,foxtrot
+550,2014,9,,4.0,beijing,foxtrot
+551,2014,9,Thailand,5.0,beijing,foxtrot
+552,2014,9,Brazil,5.0,beijing,foxtrot
+553,2014,9,China,5.0,beijing,foxtrot
+554,2014,8,China,5.0,beijing,foxtrot
+555,2014,8,United States,5.0,beijing,foxtrot
+556,2014,8,United States,5.0,beijing,foxtrot
+557,2014,7,Italy,4.0,beijing,foxtrot
+558,2014,7,China,5.0,beijing,foxtrot
+559,2014,7,China,4.0,beijing,foxtrot
+560,2014,7,United States,5.0,beijing,foxtrot
+561,2014,7,China,4.0,beijing,foxtrot
+562,2014,7,United States,5.0,beijing,foxtrot
+563,2014,7,United States,5.0,beijing,foxtrot
+564,2014,7,China,5.0,beijing,foxtrot
+565,2014,7,France,5.0,beijing,foxtrot
+566,2014,7,China,5.0,beijing,foxtrot
+567,2014,6,United States,5.0,beijing,foxtrot
+568,2014,6,South Korea,5.0,beijing,foxtrot
+569,2014,6,United Kingdom,5.0,beijing,foxtrot
+570,2014,6,China,4.0,beijing,foxtrot
+571,2014,6,China,5.0,beijing,foxtrot
+572,2014,6,Finland,4.0,beijing,foxtrot
+573,2014,6,China,5.0,beijing,foxtrot
+574,2014,5,Malaysia,4.0,beijing,foxtrot
+575,2014,5,China,5.0,beijing,foxtrot
+576,2014,5,China,5.0,beijing,foxtrot
+577,2014,5,China,5.0,beijing,foxtrot
+578,2014,5,China,5.0,beijing,foxtrot
+579,2014,5,China,4.0,beijing,foxtrot
+580,2014,5,United Kingdom,5.0,beijing,foxtrot
+581,2014,5,China,5.0,beijing,foxtrot
+582,2014,5,United Kingdom,3.0,beijing,foxtrot
+583,2014,5,Switzerland,5.0,beijing,foxtrot
+584,2014,4,,1.0,beijing,foxtrot
+585,2014,4,,5.0,beijing,foxtrot
+586,2014,3,United States,5.0,beijing,foxtrot
+587,2014,3,Belarus,4.0,beijing,foxtrot
+588,2014,1,United Kingdom,5.0,beijing,foxtrot
+589,2014,1,Thailand,5.0,beijing,foxtrot
+590,2013,12,,4.0,beijing,foxtrot
+591,2013,12,Netherlands,5.0,beijing,foxtrot
+592,2013,11,United States,5.0,beijing,foxtrot
+593,2013,11,China,5.0,beijing,foxtrot
+594,2013,11,Hong Kong,5.0,beijing,foxtrot
+595,2013,11,China,5.0,beijing,foxtrot
+596,2013,11,France,5.0,beijing,foxtrot
+597,2013,10,United Kingdom,5.0,beijing,foxtrot
+598,2013,10,United States,5.0,beijing,foxtrot
+599,2013,9,China,5.0,beijing,foxtrot
+600,2013,9,United States,5.0,beijing,foxtrot
+601,2013,9,China,5.0,beijing,foxtrot
+602,2013,9,China,4.0,beijing,foxtrot
+603,2013,9,China,4.0,beijing,foxtrot
+604,2013,8,Netherlands,5.0,beijing,foxtrot
+605,2013,8,United States,5.0,beijing,foxtrot
+606,2013,8,United States,5.0,beijing,foxtrot
+607,2013,8,China,5.0,beijing,foxtrot
+608,2013,8,Japan,5.0,beijing,foxtrot
+609,2013,8,,3.0,beijing,foxtrot
+610,2013,8,Singapore,5.0,beijing,foxtrot
+611,2013,4,China,4.0,beijing,foxtrot
+612,2013,3,China,5.0,beijing,foxtrot
+613,2013,2,,5.0,beijing,foxtrot
+614,2013,2,China,5.0,beijing,foxtrot
+615,2013,1,China,5.0,beijing,foxtrot
+616,2013,1,China,5.0,beijing,foxtrot
+617,2012,11,Canada,3.0,beijing,foxtrot
+618,2012,11,Finland,5.0,beijing,foxtrot
+619,2012,11,United States,5.0,beijing,foxtrot
+620,2012,11,China,5.0,beijing,foxtrot
+621,2012,8,Canada,3.0,beijing,foxtrot
+622,2012,4,Singapore,3.0,beijing,foxtrot
+623,2012,4,Finland,4.0,beijing,foxtrot
+624,2011,7,United Kingdom,4.0,beijing,foxtrot
+625,2011,5,China,3.0,beijing,foxtrot
+626,2011,4,India,5.0,beijing,foxtrot
+627,2010,8,China,4.0,beijing,foxtrot
+628,2010,7,United Kingdom,4.0,beijing,foxtrot
+629,2009,12,Germany,4.0,beijing,foxtrot
+630,2009,8,,5.0,beijing,foxtrot
+631,2009,6,Thailand,4.0,beijing,foxtrot
+632,2009,4,Hong Kong,4.0,beijing,foxtrot
+633,2009,4,Norway,3.0,beijing,foxtrot
+634,2017,1,Singapore,5.0,chengdu,foxtrot
+635,2016,12,China,5.0,chengdu,foxtrot
+636,2016,12,Italy,5.0,chengdu,foxtrot
+637,2016,12,Singapore,5.0,chengdu,foxtrot
+638,2016,12,United States,4.0,chengdu,foxtrot
+639,2016,12,India,5.0,chengdu,foxtrot
+640,2016,12,Italy,4.0,chengdu,foxtrot
+641,2016,12,United Kingdom,5.0,chengdu,foxtrot
+642,2016,11,Singapore,5.0,chengdu,foxtrot
+643,2016,11,China,3.0,chengdu,foxtrot
+644,2016,11,Germany,4.0,chengdu,foxtrot
+645,2016,11,Singapore,4.0,chengdu,foxtrot
+646,2016,10,United States,5.0,chengdu,foxtrot
+647,2016,10,Italy,5.0,chengdu,foxtrot
+648,2016,10,United Kingdom,5.0,chengdu,foxtrot
+649,2016,10,Canada,5.0,chengdu,foxtrot
+650,2016,10,New Zealand,5.0,chengdu,foxtrot
+651,2016,10,Germany,5.0,chengdu,foxtrot
+652,2016,10,United Kingdom,5.0,chengdu,foxtrot
+653,2016,10,United States,4.0,chengdu,foxtrot
+654,2016,10,China,5.0,chengdu,foxtrot
+655,2016,9,Italy,5.0,chengdu,foxtrot
+656,2016,9,Italy,5.0,chengdu,foxtrot
+657,2016,9,Singapore,4.0,chengdu,foxtrot
+658,2016,9,United States,5.0,chengdu,foxtrot
+659,2016,8,Malaysia,5.0,chengdu,foxtrot
+660,2016,8,South Korea,5.0,chengdu,foxtrot
+661,2016,8,Italy,5.0,chengdu,foxtrot
+662,2016,8,China,4.0,chengdu,foxtrot
+663,2016,8,Australia,5.0,chengdu,foxtrot
+664,2016,8,Hong Kong,1.0,chengdu,foxtrot
+665,2016,8,Hong Kong,5.0,chengdu,foxtrot
+666,2016,8,Italy,4.0,chengdu,foxtrot
+667,2016,7,United States,5.0,chengdu,foxtrot
+668,2016,7,Malaysia,5.0,chengdu,foxtrot
+669,2016,7,Italy,5.0,chengdu,foxtrot
+670,2016,6,Japan,5.0,chengdu,foxtrot
+671,2016,6,Italy,5.0,chengdu,foxtrot
+672,2016,6,Italy,5.0,chengdu,foxtrot
+673,2016,6,United States,5.0,chengdu,foxtrot
+674,2016,6,Australia,5.0,chengdu,foxtrot
+675,2016,6,United States,5.0,chengdu,foxtrot
+676,2016,6,United Kingdom,4.0,chengdu,foxtrot
+677,2016,6,Hong Kong,3.0,chengdu,foxtrot
+678,2016,5,Australia,5.0,chengdu,foxtrot
+679,2016,5,United States,5.0,chengdu,foxtrot
+680,2016,5,Italy,5.0,chengdu,foxtrot
+681,2016,5,Australia,4.0,chengdu,foxtrot
+682,2016,5,Hong Kong,5.0,chengdu,foxtrot
+683,2016,5,Italy,5.0,chengdu,foxtrot
+684,2016,5,China,4.0,chengdu,foxtrot
+685,2016,4,Italy,5.0,chengdu,foxtrot
+686,2016,4,Australia,5.0,chengdu,foxtrot
+687,2016,4,United States,5.0,chengdu,foxtrot
+688,2016,4,Netherlands,4.0,chengdu,foxtrot
+689,2016,4,United Kingdom,4.0,chengdu,foxtrot
+690,2016,4,United States,5.0,chengdu,foxtrot
+691,2016,3,India,4.0,chengdu,foxtrot
+692,2016,3,United Kingdom,5.0,chengdu,foxtrot
+693,2016,2,Italy,5.0,chengdu,foxtrot
+694,2016,2,China,5.0,chengdu,foxtrot
+695,2016,2,United Kingdom,5.0,chengdu,foxtrot
+696,2016,2,Cambodia,4.0,chengdu,foxtrot
+697,2016,1,Italy,5.0,chengdu,foxtrot
+698,2016,1,United States,5.0,chengdu,foxtrot
+699,2016,1,Italy,4.0,chengdu,foxtrot
+700,2016,1,United Kingdom,5.0,chengdu,foxtrot
+701,2016,1,Singapore,5.0,chengdu,foxtrot
+702,2016,1,Malaysia,5.0,chengdu,foxtrot
+703,2015,12,Finland,5.0,chengdu,foxtrot
+704,2015,12,Italy,5.0,chengdu,foxtrot
+705,2015,12,Italy,5.0,chengdu,foxtrot
+706,2015,12,United States,5.0,chengdu,foxtrot
+707,2015,11,United Kingdom,5.0,chengdu,foxtrot
+708,2015,11,Italy,5.0,chengdu,foxtrot
+709,2015,11,Hong Kong,3.0,chengdu,foxtrot
+710,2015,11,China,5.0,chengdu,foxtrot
+711,2015,11,China,4.0,chengdu,foxtrot
+712,2015,10,United Kingdom,5.0,chengdu,foxtrot
+713,2015,10,Hong Kong,5.0,chengdu,foxtrot
+714,2015,10,Hong Kong,5.0,chengdu,foxtrot
+715,2015,10,Netherlands,5.0,chengdu,foxtrot
+716,2015,9,Israel,5.0,chengdu,foxtrot
+717,2015,9,United Kingdom,5.0,chengdu,foxtrot
+718,2015,9,Italy,5.0,chengdu,foxtrot
+719,2015,9,Australia,5.0,chengdu,foxtrot
+720,2015,9,Italy,5.0,chengdu,foxtrot
+721,2015,9,Spain,5.0,chengdu,foxtrot
+722,2015,9,Italy,4.0,chengdu,foxtrot
+723,2015,9,United States,5.0,chengdu,foxtrot
+724,2015,9,United States,5.0,chengdu,foxtrot
+725,2015,9,Italy,5.0,chengdu,foxtrot
+726,2015,8,Australia,3.0,chengdu,foxtrot
+727,2015,8,United Kingdom,5.0,chengdu,foxtrot
+728,2015,8,Italy,5.0,chengdu,foxtrot
+729,2015,8,United States,5.0,chengdu,foxtrot
+730,2015,8,Kuwait,5.0,chengdu,foxtrot
+731,2015,8,United States,5.0,chengdu,foxtrot
+732,2015,8,Italy,5.0,chengdu,foxtrot
+733,2015,8,United States,5.0,chengdu,foxtrot
+734,2015,8,Hong Kong,4.0,chengdu,foxtrot
+735,2015,8,United States,5.0,chengdu,foxtrot
+736,2015,8,United Kingdom,5.0,chengdu,foxtrot
+737,2015,8,Germany,4.0,chengdu,foxtrot
+738,2015,8,United States,5.0,chengdu,foxtrot
+739,2015,7,China,5.0,chengdu,foxtrot
+740,2015,7,United States,5.0,chengdu,foxtrot
+741,2015,7,Italy,5.0,chengdu,foxtrot
+742,2015,7,Italy,5.0,chengdu,foxtrot
+743,2015,7,United States,2.0,chengdu,foxtrot
+744,2015,7,Australia,5.0,chengdu,foxtrot
+745,2015,7,United Kingdom,4.0,chengdu,foxtrot
+746,2015,7,United Kingdom,5.0,chengdu,foxtrot
+747,2015,7,Singapore,5.0,chengdu,foxtrot
+748,2015,6,United States,5.0,chengdu,foxtrot
+749,2015,6,United States,5.0,chengdu,foxtrot
+750,2015,6,Singapore,5.0,chengdu,foxtrot
+751,2015,6,Singapore,5.0,chengdu,foxtrot
+752,2015,6,United Kingdom,5.0,chengdu,foxtrot
+753,2015,6,United Kingdom,5.0,chengdu,foxtrot
+754,2015,6,Italy,5.0,chengdu,foxtrot
+755,2015,6,Italy,5.0,chengdu,foxtrot
+756,2015,6,New Zealand,5.0,chengdu,foxtrot
+757,2015,6,India,5.0,chengdu,foxtrot
+758,2015,6,United States,5.0,chengdu,foxtrot
+759,2015,6,Germany,5.0,chengdu,foxtrot
+760,2015,6,United States,5.0,chengdu,foxtrot
+761,2015,6,Canada,5.0,chengdu,foxtrot
+762,2015,6,Italy,4.0,chengdu,foxtrot
+763,2015,6,United States,5.0,chengdu,foxtrot
+764,2015,6,United States,5.0,chengdu,foxtrot
+765,2015,5,Italy,5.0,chengdu,foxtrot
+766,2015,5,China,4.0,chengdu,foxtrot
+767,2015,5,Brazil,5.0,chengdu,foxtrot
+768,2015,5,Italy,1.0,chengdu,foxtrot
+769,2015,5,Canada,5.0,chengdu,foxtrot
+770,2015,5,United States,5.0,chengdu,foxtrot
+771,2015,5,Singapore,5.0,chengdu,foxtrot
+772,2015,5,Singapore,5.0,chengdu,foxtrot
+773,2015,5,Australia,5.0,chengdu,foxtrot
+774,2015,5,United States,5.0,chengdu,foxtrot
+775,2015,4,Hong Kong,3.0,chengdu,foxtrot
+776,2015,4,Italy,5.0,chengdu,foxtrot
+777,2015,4,United States,5.0,chengdu,foxtrot
+778,2015,4,Japan,4.0,chengdu,foxtrot
+779,2015,4,Italy,5.0,chengdu,foxtrot
+780,2015,4,Australia,5.0,chengdu,foxtrot
+781,2015,4,Angola,5.0,chengdu,foxtrot
+782,2015,4,United Kingdom,5.0,chengdu,foxtrot
+783,2015,4,Denmark,5.0,chengdu,foxtrot
+784,2015,4,Israel,5.0,chengdu,foxtrot
+785,2015,4,Singapore,5.0,chengdu,foxtrot
+786,2015,4,China,5.0,chengdu,foxtrot
+787,2015,4,Italy,5.0,chengdu,foxtrot
+788,2015,4,Australia,5.0,chengdu,foxtrot
+789,2015,4,Australia,5.0,chengdu,foxtrot
+790,2015,4,Italy,5.0,chengdu,foxtrot
+791,2015,4,United States,5.0,chengdu,foxtrot
+792,2015,4,United States,5.0,chengdu,foxtrot
+793,2015,4,India,5.0,chengdu,foxtrot
+794,2015,3,United States,5.0,chengdu,foxtrot
+795,2015,3,Egypt,5.0,chengdu,foxtrot
+796,2015,3,Denmark,5.0,chengdu,foxtrot
+797,2015,3,New Zealand,4.0,chengdu,foxtrot
+798,2015,3,United Kingdom,5.0,chengdu,foxtrot
+799,2015,2,Malaysia,4.0,chengdu,foxtrot
+800,2015,2,United States,5.0,chengdu,foxtrot
+801,2015,2,China,5.0,chengdu,foxtrot
+802,2015,1,China,5.0,chengdu,foxtrot
+803,2015,1,United States,5.0,chengdu,foxtrot
+804,2015,1,Australia,5.0,chengdu,foxtrot
+805,2015,1,Norway,4.0,chengdu,foxtrot
+806,2015,1,Italy,5.0,chengdu,foxtrot
+807,2015,1,China,5.0,chengdu,foxtrot
+808,2014,12,Philippines,2.0,chengdu,foxtrot
+809,2014,12,Italy,5.0,chengdu,foxtrot
+810,2014,12,Malaysia,5.0,chengdu,foxtrot
+811,2014,12,Netherlands,5.0,chengdu,foxtrot
+812,2014,12,Singapore,4.0,chengdu,foxtrot
+813,2014,12,United Kingdom,5.0,chengdu,foxtrot
+814,2014,11,United States,5.0,chengdu,foxtrot
+815,2014,11,United States,4.0,chengdu,foxtrot
+816,2014,11,Australia,5.0,chengdu,foxtrot
+817,2014,11,Australia,5.0,chengdu,foxtrot
+818,2014,11,Italy,5.0,chengdu,foxtrot
+819,2014,10,United Kingdom,4.0,chengdu,foxtrot
+820,2014,10,United Kingdom,5.0,chengdu,foxtrot
+821,2014,10,United States,5.0,chengdu,foxtrot
+822,2014,10,Germany,5.0,chengdu,foxtrot
+823,2014,10,Malaysia,5.0,chengdu,foxtrot
+824,2014,10,United Kingdom,5.0,chengdu,foxtrot
+825,2014,9,Australia,5.0,chengdu,foxtrot
+826,2014,9,Australia,5.0,chengdu,foxtrot
+827,2014,9,Pakistan,4.0,chengdu,foxtrot
+828,2014,9,United States,5.0,chengdu,foxtrot
+829,2014,9,Hong Kong,5.0,chengdu,foxtrot
+830,2014,9,United States,5.0,chengdu,foxtrot
+831,2014,9,Netherlands,5.0,chengdu,foxtrot
+832,2014,9,Spain,5.0,chengdu,foxtrot
+833,2014,8,China,5.0,chengdu,foxtrot
+834,2014,8,Italy,5.0,chengdu,foxtrot
+835,2014,8,Italy,5.0,chengdu,foxtrot
+836,2014,8,Italy,5.0,chengdu,foxtrot
+837,2014,8,United Kingdom,5.0,chengdu,foxtrot
+838,2014,8,Singapore,4.0,chengdu,foxtrot
+839,2014,8,Netherlands,5.0,chengdu,foxtrot
+840,2014,8,Netherlands,5.0,chengdu,foxtrot
+841,2014,8,United Kingdom,4.0,chengdu,foxtrot
+842,2014,8,Singapore,5.0,chengdu,foxtrot
+843,2014,8,Canada,5.0,chengdu,foxtrot
+844,2014,8,United Kingdom,5.0,chengdu,foxtrot
+845,2014,8,Netherlands,5.0,chengdu,foxtrot
+846,2014,8,Greece,5.0,chengdu,foxtrot
+847,2014,7,China,4.0,chengdu,foxtrot
+848,2014,7,Ireland,5.0,chengdu,foxtrot
+849,2014,7,Italy,5.0,chengdu,foxtrot
+850,2014,7,United States,5.0,chengdu,foxtrot
+851,2014,7,Malaysia,1.0,chengdu,foxtrot
+852,2014,7,United States,5.0,chengdu,foxtrot
+853,2014,7,Netherlands,5.0,chengdu,foxtrot
+854,2014,7,France,5.0,chengdu,foxtrot
+855,2014,7,United States,5.0,chengdu,foxtrot
+856,2014,6,Australia,5.0,chengdu,foxtrot
+857,2014,6,Netherlands,5.0,chengdu,foxtrot
+858,2014,6,Singapore,5.0,chengdu,foxtrot
+859,2014,6,United Kingdom,5.0,chengdu,foxtrot
+860,2014,6,United Kingdom,5.0,chengdu,foxtrot
+861,2014,6,United States,5.0,chengdu,foxtrot
+862,2014,6,United States,5.0,chengdu,foxtrot
+863,2014,6,United States,5.0,chengdu,foxtrot
+864,2014,6,Singapore,5.0,chengdu,foxtrot
+865,2014,6,United Kingdom,5.0,chengdu,foxtrot
+866,2014,6,Australia,5.0,chengdu,foxtrot
+867,2014,6,United States,5.0,chengdu,foxtrot
+868,2014,6,Netherlands,5.0,chengdu,foxtrot
+869,2014,5,Egypt,4.0,chengdu,foxtrot
+870,2014,5,China,5.0,chengdu,foxtrot
+871,2014,5,Hong Kong,4.0,chengdu,foxtrot
+872,2014,5,Netherlands,5.0,chengdu,foxtrot
+873,2014,5,Australia,5.0,chengdu,foxtrot
+874,2014,5,New Zealand,5.0,chengdu,foxtrot
+875,2014,5,China,5.0,chengdu,foxtrot
+876,2014,5,Singapore,5.0,chengdu,foxtrot
+877,2014,5,China,5.0,chengdu,foxtrot
+878,2014,5,China,5.0,chengdu,foxtrot
+879,2014,4,Singapore,4.0,chengdu,foxtrot
+880,2014,4,Singapore,5.0,chengdu,foxtrot
+881,2014,4,United Kingdom,5.0,chengdu,foxtrot
+882,2014,4,Singapore,4.0,chengdu,foxtrot
+883,2014,4,Switzerland,5.0,chengdu,foxtrot
+884,2014,4,Singapore,5.0,chengdu,foxtrot
+885,2014,4,China,4.0,chengdu,foxtrot
+886,2014,4,China,5.0,chengdu,foxtrot
+887,2014,4,Sweden,5.0,chengdu,foxtrot
+888,2014,4,United States,5.0,chengdu,foxtrot
+889,2014,3,United Kingdom,5.0,chengdu,foxtrot
+890,2014,3,United States,5.0,chengdu,foxtrot
+891,2014,3,China,3.0,chengdu,foxtrot
+892,2014,2,Singapore,5.0,chengdu,foxtrot
+893,2014,2,United Kingdom,5.0,chengdu,foxtrot
+894,2014,2,United States,5.0,chengdu,foxtrot
+895,2014,1,United Kingdom,5.0,chengdu,foxtrot
+896,2014,1,Australia,5.0,chengdu,foxtrot
+897,2014,1,Indonesia,5.0,chengdu,foxtrot
+898,2014,1,Germany,5.0,chengdu,foxtrot
+899,2014,1,Singapore,5.0,chengdu,foxtrot
+900,2014,1,United States,5.0,chengdu,foxtrot
+901,2013,12,China,5.0,chengdu,foxtrot
+902,2013,12,China,5.0,chengdu,foxtrot
+903,2013,12,Australia,5.0,chengdu,foxtrot
+904,2013,12,Italy,5.0,chengdu,foxtrot
+905,2013,12,United States,5.0,chengdu,foxtrot
+906,2013,11,China,4.0,chengdu,foxtrot
+907,2013,11,Singapore,5.0,chengdu,foxtrot
+908,2013,11,India,5.0,chengdu,foxtrot
+909,2013,11,Singapore,5.0,chengdu,foxtrot
+910,2013,11,Singapore,4.0,chengdu,foxtrot
+911,2013,11,China,5.0,chengdu,foxtrot
+912,2013,10,Italy,5.0,chengdu,foxtrot
+913,2013,10,United States,5.0,chengdu,foxtrot
+914,2013,10,Indonesia,5.0,chengdu,foxtrot
+915,2013,9,United Kingdom,5.0,chengdu,foxtrot
+916,2013,9,China,5.0,chengdu,foxtrot
+917,2013,9,Italy,4.0,chengdu,foxtrot
+918,2013,9,Singapore,5.0,chengdu,foxtrot
+919,2013,9,China,5.0,chengdu,foxtrot
+920,2013,9,China,4.0,chengdu,foxtrot
+921,2013,9,Singapore,4.0,chengdu,foxtrot
+922,2013,8,United States,5.0,chengdu,foxtrot
+923,2013,8,Hong Kong,4.0,chengdu,foxtrot
+924,2013,8,Poland,5.0,chengdu,foxtrot
+925,2013,8,United States,5.0,chengdu,foxtrot
+926,2013,8,United States,5.0,chengdu,foxtrot
+927,2013,8,Germany,3.0,chengdu,foxtrot
+928,2013,7,Malaysia,5.0,chengdu,foxtrot
+929,2013,7,Singapore,5.0,chengdu,foxtrot
+930,2013,7,Malaysia,5.0,chengdu,foxtrot
+931,2013,7,China,5.0,chengdu,foxtrot
+932,2013,7,United States,5.0,chengdu,foxtrot
+933,2013,7,China,5.0,chengdu,foxtrot
+934,2013,6,India,4.0,chengdu,foxtrot
+935,2013,6,United States,4.0,chengdu,foxtrot
+936,2013,6,United States,5.0,chengdu,foxtrot
+937,2013,6,South Africa,5.0,chengdu,foxtrot
+938,2013,6,United States,5.0,chengdu,foxtrot
+939,2013,6,United States,5.0,chengdu,foxtrot
+940,2013,6,India,5.0,chengdu,foxtrot
+941,2013,5,Singapore,5.0,chengdu,foxtrot
+942,2013,5,United States,5.0,chengdu,foxtrot
+943,2013,5,India,5.0,chengdu,foxtrot
+944,2013,4,United States,5.0,chengdu,foxtrot
+945,2013,4,United Kingdom,5.0,chengdu,foxtrot
+946,2013,4,United States,5.0,chengdu,foxtrot
+947,2013,4,Malaysia,5.0,chengdu,foxtrot
+948,2013,4,United States,5.0,chengdu,foxtrot
+949,2013,4,United Arab Emirates,4.0,chengdu,foxtrot
+950,2013,4,Singapore,5.0,chengdu,foxtrot
+951,2013,4,Italy,5.0,chengdu,foxtrot
+952,2013,4,Singapore,5.0,chengdu,foxtrot
+953,2013,4,Hong Kong,5.0,chengdu,foxtrot
+954,2013,3,China,5.0,chengdu,foxtrot
+955,2013,3,Canada,5.0,chengdu,foxtrot
+956,2013,2,Hong Kong,5.0,chengdu,foxtrot
+957,2013,2,Malaysia,5.0,chengdu,foxtrot
+958,2013,1,United States,5.0,chengdu,foxtrot
+959,2013,1,Indonesia,4.0,chengdu,foxtrot
+960,2012,12,China,5.0,chengdu,foxtrot
+961,2012,12,United States,5.0,chengdu,foxtrot
+962,2012,12,Italy,5.0,chengdu,foxtrot
+963,2012,11,Italy,1.0,chengdu,foxtrot
+964,2012,11,Australia,4.0,chengdu,foxtrot
+965,2012,11,Indonesia,4.0,chengdu,foxtrot
+966,2012,11,Italy,4.0,chengdu,foxtrot
+967,2012,10,Canada,5.0,chengdu,foxtrot
+968,2012,10,Italy,5.0,chengdu,foxtrot
+969,2012,10,Singapore,5.0,chengdu,foxtrot
+970,2012,10,Ireland,4.0,chengdu,foxtrot
+971,2012,10,Canada,5.0,chengdu,foxtrot
+972,2012,10,Australia,5.0,chengdu,foxtrot
+973,2012,10,United States,5.0,chengdu,foxtrot
+974,2012,10,Canada,5.0,chengdu,foxtrot
+975,2012,9,Australia,5.0,chengdu,foxtrot
+976,2012,9,Philippines,5.0,chengdu,foxtrot
+977,2012,7,India,5.0,chengdu,foxtrot
+978,2012,7,United States,5.0,chengdu,foxtrot
+979,2012,7,China,5.0,chengdu,foxtrot
+980,2012,5,United States,5.0,chengdu,foxtrot
+981,2012,5,Argentina,5.0,chengdu,foxtrot
+982,2012,5,United States,5.0,chengdu,foxtrot
+983,2012,5,China,5.0,chengdu,foxtrot
+984,2012,4,Singapore,5.0,chengdu,foxtrot
+985,2012,4,Netherlands,4.0,chengdu,foxtrot
+986,2012,4,Saudi Arabia,5.0,chengdu,foxtrot
+987,2012,4,Hong Kong,3.0,chengdu,foxtrot
+988,2012,4,Italy,5.0,chengdu,foxtrot
+989,2012,4,Malaysia,2.0,chengdu,foxtrot
+990,2012,4,China,5.0,chengdu,foxtrot
+991,2012,4,China,4.0,chengdu,foxtrot
+992,2012,1,China,5.0,chengdu,foxtrot
+993,2011,12,Singapore,5.0,chengdu,foxtrot
+994,2011,12,Singapore,5.0,chengdu,foxtrot
+995,2011,12,Singapore,4.0,chengdu,foxtrot
+996,2011,12,Malaysia,5.0,chengdu,foxtrot
+997,2011,11,Malaysia,5.0,chengdu,foxtrot
+998,2011,8,Thailand,2.0,chengdu,foxtrot
+999,2011,6,United States,5.0,chengdu,foxtrot
+1000,2011,5,China,4.0,chengdu,foxtrot
+1001,2011,4,France,5.0,chengdu,foxtrot
+1002,2016,12,Hong Kong,4.0,guangzhou,foxtrot
+1003,2016,11,Singapore,1.0,guangzhou,foxtrot
+1004,2016,11,Saudi Arabia,1.0,guangzhou,foxtrot
+1005,2016,11,Singapore,5.0,guangzhou,foxtrot
+1006,2016,11,Australia,5.0,guangzhou,foxtrot
+1007,2016,10,Philippines,4.0,guangzhou,foxtrot
+1008,2016,10,Philippines,1.0,guangzhou,foxtrot
+1009,2016,9,India,5.0,guangzhou,foxtrot
+1010,2016,9,Indonesia,5.0,guangzhou,foxtrot
+1011,2016,9,Kazakhstan,4.0,guangzhou,foxtrot
+1012,2016,9,Indonesia,5.0,guangzhou,foxtrot
+1013,2016,9,United States,4.0,guangzhou,foxtrot
+1014,2016,8,Taiwan,4.0,guangzhou,foxtrot
+1015,2016,8,South Africa,4.0,guangzhou,foxtrot
+1016,2016,8,,5.0,guangzhou,foxtrot
+1017,2016,8,China,5.0,guangzhou,foxtrot
+1018,2016,8,Philippines,5.0,guangzhou,foxtrot
+1019,2016,8,Kenya,5.0,guangzhou,foxtrot
+1020,2016,8,China,4.0,guangzhou,foxtrot
+1021,2016,7,,5.0,guangzhou,foxtrot
+1022,2016,7,Indonesia,4.0,guangzhou,foxtrot
+1023,2016,7,,2.0,guangzhou,foxtrot
+1024,2016,7,Canada,4.0,guangzhou,foxtrot
+1025,2016,6,,5.0,guangzhou,foxtrot
+1026,2016,6,Australia,5.0,guangzhou,foxtrot
+1027,2016,5,Singapore,4.0,guangzhou,foxtrot
+1028,2016,5,Indonesia,5.0,guangzhou,foxtrot
+1029,2016,4,New Zealand,4.0,guangzhou,foxtrot
+1030,2016,4,,4.0,guangzhou,foxtrot
+1031,2016,4,United States,4.0,guangzhou,foxtrot
+1032,2016,3,United States,4.0,guangzhou,foxtrot
+1033,2016,2,India,4.0,guangzhou,foxtrot
+1034,2016,1,United States,5.0,guangzhou,foxtrot
+1035,2016,1,United States,5.0,guangzhou,foxtrot
+1036,2016,1,Philippines,5.0,guangzhou,foxtrot
+1037,2015,12,South Korea,5.0,guangzhou,foxtrot
+1038,2015,12,Hong Kong,4.0,guangzhou,foxtrot
+1039,2015,12,United Arab Emirates,4.0,guangzhou,foxtrot
+1040,2015,12,Australia,4.0,guangzhou,foxtrot
+1041,2015,11,United States,5.0,guangzhou,foxtrot
+1042,2015,11,Russia,5.0,guangzhou,foxtrot
+1043,2015,11,China,5.0,guangzhou,foxtrot
+1044,2015,11,United States,4.0,guangzhou,foxtrot
+1045,2015,11,United Kingdom,5.0,guangzhou,foxtrot
+1046,2015,10,Mauritius,5.0,guangzhou,foxtrot
+1047,2015,10,United States,5.0,guangzhou,foxtrot
+1048,2015,10,Singapore,3.0,guangzhou,foxtrot
+1049,2015,10,Singapore,5.0,guangzhou,foxtrot
+1050,2015,9,,5.0,guangzhou,foxtrot
+1051,2015,8,United Kingdom,4.0,guangzhou,foxtrot
+1052,2015,8,,4.0,guangzhou,foxtrot
+1053,2015,8,Malaysia,4.0,guangzhou,foxtrot
+1054,2015,7,,4.0,guangzhou,foxtrot
+1055,2015,5,Philippines,4.0,guangzhou,foxtrot
+1056,2015,5,,5.0,guangzhou,foxtrot
+1057,2015,5,Taiwan,4.0,guangzhou,foxtrot
+1058,2015,5,Russia,5.0,guangzhou,foxtrot
+1059,2015,5,Australia,4.0,guangzhou,foxtrot
+1060,2015,4,,5.0,guangzhou,foxtrot
+1061,2015,4,India,5.0,guangzhou,foxtrot
+1062,2015,4,India,5.0,guangzhou,foxtrot
+1063,2015,4,,4.0,guangzhou,foxtrot
+1064,2015,4,,4.0,guangzhou,foxtrot
+1065,2015,4,Germany,5.0,guangzhou,foxtrot
+1066,2015,4,Australia,5.0,guangzhou,foxtrot
+1067,2015,4,China,4.0,guangzhou,foxtrot
+1068,2015,4,Philippines,5.0,guangzhou,foxtrot
+1069,2015,3,France,4.0,guangzhou,foxtrot
+1070,2015,3,India,4.0,guangzhou,foxtrot
+1071,2015,3,Australia,4.0,guangzhou,foxtrot
+1072,2015,3,,5.0,guangzhou,foxtrot
+1073,2015,3,Philippines,4.0,guangzhou,foxtrot
+1074,2015,2,Singapore,4.0,guangzhou,foxtrot
+1075,2015,1,Australia,1.0,guangzhou,foxtrot
+1076,2015,1,Singapore,4.0,guangzhou,foxtrot
+1077,2015,1,United Kingdom,3.0,guangzhou,foxtrot
+1078,2015,1,,4.0,guangzhou,foxtrot
+1079,2015,1,United States,5.0,guangzhou,foxtrot
+1080,2015,1,South Africa,2.0,guangzhou,foxtrot
+1081,2015,1,Australia,4.0,guangzhou,foxtrot
+1082,2015,1,Nepal,4.0,guangzhou,foxtrot
+1083,2014,12,Indonesia,4.0,guangzhou,foxtrot
+1084,2014,12,Hong Kong,5.0,guangzhou,foxtrot
+1085,2014,12,Norway,5.0,guangzhou,foxtrot
+1086,2014,11,Indonesia,4.0,guangzhou,foxtrot
+1087,2014,10,,5.0,guangzhou,foxtrot
+1088,2014,10,Malaysia,4.0,guangzhou,foxtrot
+1089,2014,10,New Zealand,5.0,guangzhou,foxtrot
+1090,2014,9,Lithuania,5.0,guangzhou,foxtrot
+1091,2014,9,India,5.0,guangzhou,foxtrot
+1092,2014,9,United States,5.0,guangzhou,foxtrot
+1093,2014,9,Ireland,5.0,guangzhou,foxtrot
+1094,2014,8,Australia,5.0,guangzhou,foxtrot
+1095,2014,8,Hong Kong,5.0,guangzhou,foxtrot
+1096,2014,8,Israel,5.0,guangzhou,foxtrot
+1097,2014,8,United States,4.0,guangzhou,foxtrot
+1098,2014,8,Italy,4.0,guangzhou,foxtrot
+1099,2014,7,United States,4.0,guangzhou,foxtrot
+1100,2014,7,,5.0,guangzhou,foxtrot
+1101,2014,6,China,4.0,guangzhou,foxtrot
+1102,2014,6,China,5.0,guangzhou,foxtrot
+1103,2014,5,,5.0,guangzhou,foxtrot
+1104,2014,5,South Africa,4.0,guangzhou,foxtrot
+1105,2014,5,China,4.0,guangzhou,foxtrot
+1106,2014,5,Italy,5.0,guangzhou,foxtrot
+1107,2014,4,Italy,5.0,guangzhou,foxtrot
+1108,2014,4,,3.0,guangzhou,foxtrot
+1109,2014,4,,5.0,guangzhou,foxtrot
+1110,2014,3,Singapore,5.0,guangzhou,foxtrot
+1111,2014,3,,3.0,guangzhou,foxtrot
+1112,2014,1,United States,5.0,guangzhou,foxtrot
+1113,2014,1,South Africa,5.0,guangzhou,foxtrot
+1114,2014,1,,5.0,guangzhou,foxtrot
+1115,2013,12,New Zealand,4.0,guangzhou,foxtrot
+1116,2013,12,Australia,4.0,guangzhou,foxtrot
+1117,2013,12,India,3.0,guangzhou,foxtrot
+1118,2013,12,,3.0,guangzhou,foxtrot
+1119,2013,12,,1.0,guangzhou,foxtrot
+1120,2013,11,Qatar,5.0,guangzhou,foxtrot
+1121,2013,11,Indonesia,4.0,guangzhou,foxtrot
+1122,2013,11,China,4.0,guangzhou,foxtrot
+1123,2013,10,Ireland,3.0,guangzhou,foxtrot
+1124,2013,10,,5.0,guangzhou,foxtrot
+1125,2013,10,Singapore,5.0,guangzhou,foxtrot
+1126,2013,10,Italy,3.0,guangzhou,foxtrot
+1127,2013,10,Singapore,5.0,guangzhou,foxtrot
+1128,2013,10,United States,4.0,guangzhou,foxtrot
+1129,2013,10,Singapore,4.0,guangzhou,foxtrot
+1130,2013,10,Australia,5.0,guangzhou,foxtrot
+1131,2013,10,China,5.0,guangzhou,foxtrot
+1132,2013,10,China,5.0,guangzhou,foxtrot
+1133,2013,10,Indonesia,5.0,guangzhou,foxtrot
+1134,2013,10,Malaysia,5.0,guangzhou,foxtrot
+1135,2013,10,Singapore,5.0,guangzhou,foxtrot
+1136,2013,9,China,5.0,guangzhou,foxtrot
+1137,2013,9,,5.0,guangzhou,foxtrot
+1138,2013,9,United States,5.0,guangzhou,foxtrot
+1139,2013,8,Bahrain,4.0,guangzhou,foxtrot
+1140,2013,8,United Kingdom,5.0,guangzhou,foxtrot
+1141,2013,7,,5.0,guangzhou,foxtrot
+1142,2013,6,Egypt,5.0,guangzhou,foxtrot
+1143,2013,6,New Zealand,5.0,guangzhou,foxtrot
+1144,2013,6,Belgium,5.0,guangzhou,foxtrot
+1145,2013,6,United States,5.0,guangzhou,foxtrot
+1146,2013,5,Hong Kong,4.0,guangzhou,foxtrot
+1147,2013,5,India,5.0,guangzhou,foxtrot
+1148,2013,5,Qatar,5.0,guangzhou,foxtrot
+1149,2013,5,India,4.0,guangzhou,foxtrot
+1150,2013,5,China,5.0,guangzhou,foxtrot
+1151,2013,4,United Arab Emirates,4.0,guangzhou,foxtrot
+1152,2013,4,Thailand,4.0,guangzhou,foxtrot
+1153,2017,1,Italy,2.0,shanghai,foxtrot
+1154,2016,12,Italy,4.0,shanghai,foxtrot
+1155,2016,12,Australia,4.0,shanghai,foxtrot
+1156,2016,12,Australia,4.0,shanghai,foxtrot
+1157,2016,12,Hong Kong,4.0,shanghai,foxtrot
+1158,2016,11,Spain,4.0,shanghai,foxtrot
+1159,2016,11,United Kingdom,5.0,shanghai,foxtrot
+1160,2016,11,Hong Kong,4.0,shanghai,foxtrot
+1161,2016,11,United States,1.0,shanghai,foxtrot
+1162,2016,11,Italy,5.0,shanghai,foxtrot
+1163,2016,11,Italy,4.0,shanghai,foxtrot
+1164,2016,11,Hong Kong,5.0,shanghai,foxtrot
+1165,2016,11,Italy,5.0,shanghai,foxtrot
+1166,2016,10,Italy,5.0,shanghai,foxtrot
+1167,2016,10,Hong Kong,5.0,shanghai,foxtrot
+1168,2016,10,Switzerland,4.0,shanghai,foxtrot
+1169,2016,10,China,4.0,shanghai,foxtrot
+1170,2016,10,China,5.0,shanghai,foxtrot
+1171,2016,9,India,5.0,shanghai,foxtrot
+1172,2016,9,United States,5.0,shanghai,foxtrot
+1173,2016,9,Malaysia,5.0,shanghai,foxtrot
+1174,2016,9,Italy,4.0,shanghai,foxtrot
+1175,2016,9,Italy,5.0,shanghai,foxtrot
+1176,2016,9,United States,5.0,shanghai,foxtrot
+1177,2016,9,Mexico,5.0,shanghai,foxtrot
+1178,2016,9,Singapore,5.0,shanghai,foxtrot
+1179,2016,9,United Kingdom,5.0,shanghai,foxtrot
+1180,2016,8,Italy,5.0,shanghai,foxtrot
+1181,2016,8,Singapore,5.0,shanghai,foxtrot
+1182,2016,7,United States,5.0,shanghai,foxtrot
+1183,2016,7,Italy,4.0,shanghai,foxtrot
+1184,2016,7,Singapore,4.0,shanghai,foxtrot
+1185,2016,7,Italy,4.0,shanghai,foxtrot
+1186,2016,7,United States,5.0,shanghai,foxtrot
+1187,2016,6,China,5.0,shanghai,foxtrot
+1188,2016,6,Netherlands,5.0,shanghai,foxtrot
+1189,2016,6,Indonesia,4.0,shanghai,foxtrot
+1190,2016,6,Indonesia,5.0,shanghai,foxtrot
+1191,2016,6,Italy,5.0,shanghai,foxtrot
+1192,2016,6,Italy,5.0,shanghai,foxtrot
+1193,2016,5,Malaysia,4.0,shanghai,foxtrot
+1194,2016,5,Portugal,4.0,shanghai,foxtrot
+1195,2016,5,Italy,5.0,shanghai,foxtrot
+1196,2016,5,Canada,4.0,shanghai,foxtrot
+1197,2016,5,United States,5.0,shanghai,foxtrot
+1198,2016,4,Australia,5.0,shanghai,foxtrot
+1199,2016,4,Italy,4.0,shanghai,foxtrot
+1200,2016,4,Italy,4.0,shanghai,foxtrot
+1201,2016,4,Switzerland,4.0,shanghai,foxtrot
+1202,2016,4,United States,4.0,shanghai,foxtrot
+1203,2016,4,Thailand,4.0,shanghai,foxtrot
+1204,2016,4,China,5.0,shanghai,foxtrot
+1205,2016,4,China,4.0,shanghai,foxtrot
+1206,2016,3,Hong Kong,5.0,shanghai,foxtrot
+1207,2016,3,Italy,1.0,shanghai,foxtrot
+1208,2016,3,Australia,5.0,shanghai,foxtrot
+1209,2016,3,Singapore,5.0,shanghai,foxtrot
+1210,2016,3,Denmark,5.0,shanghai,foxtrot
+1211,2016,3,Singapore,4.0,shanghai,foxtrot
+1212,2016,3,India,4.0,shanghai,foxtrot
+1213,2016,3,Italy,3.0,shanghai,foxtrot
+1214,2016,3,Taiwan,4.0,shanghai,foxtrot
+1215,2016,3,Italy,4.0,shanghai,foxtrot
+1216,2016,2,Netherlands,4.0,shanghai,foxtrot
+1217,2016,2,China,4.0,shanghai,foxtrot
+1218,2016,2,Japan,4.0,shanghai,foxtrot
+1219,2016,2,Hong Kong,3.0,shanghai,foxtrot
+1220,2016,2,United Kingdom,4.0,shanghai,foxtrot
+1221,2016,2,Germany,5.0,shanghai,foxtrot
+1222,2016,1,Belgium,5.0,shanghai,foxtrot
+1223,2016,1,China,4.0,shanghai,foxtrot
+1224,2015,12,United States,5.0,shanghai,foxtrot
+1225,2015,12,United Kingdom,4.0,shanghai,foxtrot
+1226,2015,12,Indonesia,4.0,shanghai,foxtrot
+1227,2015,12,China,5.0,shanghai,foxtrot
+1228,2015,12,Germany,5.0,shanghai,foxtrot
+1229,2015,12,Italy,4.0,shanghai,foxtrot
+1230,2015,12,Netherlands,5.0,shanghai,foxtrot
+1231,2015,12,Singapore,4.0,shanghai,foxtrot
+1232,2015,12,Hong Kong,5.0,shanghai,foxtrot
+1233,2015,12,United States,5.0,shanghai,foxtrot
+1234,2015,12,Italy,5.0,shanghai,foxtrot
+1235,2015,11,Italy,4.0,shanghai,foxtrot
+1236,2015,11,Italy,5.0,shanghai,foxtrot
+1237,2015,11,Hong Kong,5.0,shanghai,foxtrot
+1238,2015,11,Singapore,5.0,shanghai,foxtrot
+1239,2015,11,Singapore,4.0,shanghai,foxtrot
+1240,2015,11,Canada,5.0,shanghai,foxtrot
+1241,2015,11,United States,4.0,shanghai,foxtrot
+1242,2015,11,Italy,4.0,shanghai,foxtrot
+1243,2015,11,Singapore,5.0,shanghai,foxtrot
+1244,2015,11,Italy,5.0,shanghai,foxtrot
+1245,2015,10,Italy,5.0,shanghai,foxtrot
+1246,2015,10,United States,4.0,shanghai,foxtrot
+1247,2015,10,Italy,3.0,shanghai,foxtrot
+1248,2015,10,Australia,4.0,shanghai,foxtrot
+1249,2015,9,Singapore,5.0,shanghai,foxtrot
+1250,2015,9,Hong Kong,4.0,shanghai,foxtrot
+1251,2015,9,China,5.0,shanghai,foxtrot
+1252,2015,9,Singapore,4.0,shanghai,foxtrot
+1253,2015,9,China,5.0,shanghai,foxtrot
+1254,2015,9,Italy,4.0,shanghai,foxtrot
+1255,2015,9,Australia,5.0,shanghai,foxtrot
+1256,2015,9,Italy,5.0,shanghai,foxtrot
+1257,2015,9,United States,5.0,shanghai,foxtrot
+1258,2015,8,United States,4.0,shanghai,foxtrot
+1259,2015,8,Australia,5.0,shanghai,foxtrot
+1260,2015,8,Hong Kong,4.0,shanghai,foxtrot
+1261,2015,8,Italy,5.0,shanghai,foxtrot
+1262,2015,8,South Korea,5.0,shanghai,foxtrot
+1263,2015,8,United Kingdom,5.0,shanghai,foxtrot
+1264,2015,8,Hong Kong,5.0,shanghai,foxtrot
+1265,2015,8,United States,4.0,shanghai,foxtrot
+1266,2015,7,Germany,3.0,shanghai,foxtrot
+1267,2015,7,Canada,5.0,shanghai,foxtrot
+1268,2015,7,Singapore,4.0,shanghai,foxtrot
+1269,2015,7,Canada,5.0,shanghai,foxtrot
+1270,2015,7,Canada,4.0,shanghai,foxtrot
+1271,2015,7,United Kingdom,4.0,shanghai,foxtrot
+1272,2015,6,Italy,3.0,shanghai,foxtrot
+1273,2015,6,Australia,5.0,shanghai,foxtrot
+1274,2015,6,Singapore,5.0,shanghai,foxtrot
+1275,2015,6,Australia,5.0,shanghai,foxtrot
+1276,2015,6,United States,5.0,shanghai,foxtrot
+1277,2015,5,Canada,5.0,shanghai,foxtrot
+1278,2015,5,Italy,5.0,shanghai,foxtrot
+1279,2015,5,Norway,5.0,shanghai,foxtrot
+1280,2015,5,Singapore,5.0,shanghai,foxtrot
+1281,2015,5,China,4.0,shanghai,foxtrot
+1282,2015,5,United Kingdom,4.0,shanghai,foxtrot
+1283,2015,5,Australia,5.0,shanghai,foxtrot
+1284,2015,5,Singapore,4.0,shanghai,foxtrot
+1285,2015,5,Australia,5.0,shanghai,foxtrot
+1286,2015,4,United Kingdom,5.0,shanghai,foxtrot
+1287,2015,4,India,4.0,shanghai,foxtrot
+1288,2015,4,Singapore,5.0,shanghai,foxtrot
+1289,2015,4,Singapore,4.0,shanghai,foxtrot
+1290,2015,4,Israel,5.0,shanghai,foxtrot
+1291,2015,4,Japan,5.0,shanghai,foxtrot
+1292,2015,4,Hong Kong,2.0,shanghai,foxtrot
+1293,2015,4,United Kingdom,5.0,shanghai,foxtrot
+1294,2015,4,Italy,4.0,shanghai,foxtrot
+1295,2015,3,Italy,4.0,shanghai,foxtrot
+1296,2015,3,Indonesia,5.0,shanghai,foxtrot
+1297,2015,3,Italy,4.0,shanghai,foxtrot
+1298,2015,3,Singapore,4.0,shanghai,foxtrot
+1299,2015,3,China,4.0,shanghai,foxtrot
+1300,2015,2,Hungary,4.0,shanghai,foxtrot
+1301,2015,2,Canada,1.0,shanghai,foxtrot
+1302,2015,2,,5.0,shanghai,foxtrot
+1303,2015,1,China,4.0,shanghai,foxtrot
+1304,2015,1,China,5.0,shanghai,foxtrot
+1305,2015,1,United States,4.0,shanghai,foxtrot
+1306,2015,1,Hong Kong,5.0,shanghai,foxtrot
+1307,2015,1,Australia,5.0,shanghai,foxtrot
+1308,2015,1,Singapore,5.0,shanghai,foxtrot
+1309,2015,1,Singapore,4.0,shanghai,foxtrot
+1310,2015,1,United States,5.0,shanghai,foxtrot
+1311,2015,1,Australia,5.0,shanghai,foxtrot
+1312,2015,1,Italy,5.0,shanghai,foxtrot
+1313,2015,1,Singapore,4.0,shanghai,foxtrot
+1314,2015,1,,5.0,shanghai,foxtrot
+1315,2014,12,Singapore,4.0,shanghai,foxtrot
+1316,2014,12,Lebanon,4.0,shanghai,foxtrot
+1317,2014,12,India,5.0,shanghai,foxtrot
+1318,2014,12,Australia,4.0,shanghai,foxtrot
+1319,2014,12,United States,4.0,shanghai,foxtrot
+1320,2014,12,New Zealand,5.0,shanghai,foxtrot
+1321,2014,12,Hong Kong,4.0,shanghai,foxtrot
+1322,2014,11,Denmark,4.0,shanghai,foxtrot
+1323,2014,11,Singapore,4.0,shanghai,foxtrot
+1324,2014,11,Netherlands,4.0,shanghai,foxtrot
+1325,2014,11,Italy,4.0,shanghai,foxtrot
+1326,2014,11,United Kingdom,5.0,shanghai,foxtrot
+1327,2014,11,China,5.0,shanghai,foxtrot
+1328,2014,11,Australia,4.0,shanghai,foxtrot
+1329,2014,11,Philippines,5.0,shanghai,foxtrot
+1330,2014,10,Italy,5.0,shanghai,foxtrot
+1331,2014,10,United States,5.0,shanghai,foxtrot
+1332,2014,10,Ireland,4.0,shanghai,foxtrot
+1333,2014,10,China,5.0,shanghai,foxtrot
+1334,2014,10,Australia,4.0,shanghai,foxtrot
+1335,2014,10,Germany,5.0,shanghai,foxtrot
+1336,2014,10,Australia,4.0,shanghai,foxtrot
+1337,2014,10,Hong Kong,5.0,shanghai,foxtrot
+1338,2014,10,Italy,5.0,shanghai,foxtrot
+1339,2014,10,Canada,5.0,shanghai,foxtrot
+1340,2014,9,Australia,4.0,shanghai,foxtrot
+1341,2014,9,United States,4.0,shanghai,foxtrot
+1342,2014,9,Australia,4.0,shanghai,foxtrot
+1343,2014,9,Singapore,5.0,shanghai,foxtrot
+1344,2014,9,,5.0,shanghai,foxtrot
+1345,2014,9,New Zealand,5.0,shanghai,foxtrot
+1346,2014,9,China,3.0,shanghai,foxtrot
+1347,2014,9,Philippines,4.0,shanghai,foxtrot
+1348,2014,9,United States,5.0,shanghai,foxtrot
+1349,2014,9,Switzerland,4.0,shanghai,foxtrot
+1350,2014,8,Australia,5.0,shanghai,foxtrot
+1351,2014,8,Australia,4.0,shanghai,foxtrot
+1352,2014,8,China,5.0,shanghai,foxtrot
+1353,2014,8,China,5.0,shanghai,foxtrot
+1354,2014,8,Sweden,3.0,shanghai,foxtrot
+1355,2014,8,United Kingdom,4.0,shanghai,foxtrot
+1356,2014,8,Italy,5.0,shanghai,foxtrot
+1357,2014,8,Singapore,5.0,shanghai,foxtrot
+1358,2014,7,China,5.0,shanghai,foxtrot
+1359,2014,7,Saudi Arabia,5.0,shanghai,foxtrot
+1360,2014,7,Norway,5.0,shanghai,foxtrot
+1361,2014,6,Hong Kong,5.0,shanghai,foxtrot
+1362,2014,6,Hong Kong,5.0,shanghai,foxtrot
+1363,2014,6,United Kingdom,4.0,shanghai,foxtrot
+1364,2014,6,United Kingdom,4.0,shanghai,foxtrot
+1365,2014,6,Australia,4.0,shanghai,foxtrot
+1366,2014,6,China,4.0,shanghai,foxtrot
+1367,2014,6,Canada,4.0,shanghai,foxtrot
+1368,2014,6,United States,5.0,shanghai,foxtrot
+1369,2014,5,United States,5.0,shanghai,foxtrot
+1370,2014,5,India,5.0,shanghai,foxtrot
+1371,2014,5,United Kingdom,5.0,shanghai,foxtrot
+1372,2014,5,Italy,5.0,shanghai,foxtrot
+1373,2014,5,Italy,5.0,shanghai,foxtrot
+1374,2014,5,Australia,5.0,shanghai,foxtrot
+1375,2014,4,Italy,4.0,shanghai,foxtrot
+1376,2014,4,China,4.0,shanghai,foxtrot
+1377,2014,4,United States,5.0,shanghai,foxtrot
+1378,2014,4,Russia,5.0,shanghai,foxtrot
+1379,2014,3,United Kingdom,5.0,shanghai,foxtrot
+1380,2014,3,Australia,5.0,shanghai,foxtrot
+1381,2014,3,United States,4.0,shanghai,foxtrot
+1382,2014,3,China,5.0,shanghai,foxtrot
+1383,2014,3,United Kingdom,4.0,shanghai,foxtrot
+1384,2014,3,India,4.0,shanghai,foxtrot
+1385,2014,3,China,4.0,shanghai,foxtrot
+1386,2014,3,Italy,4.0,shanghai,foxtrot
+1387,2014,3,Czechia,5.0,shanghai,foxtrot
+1388,2014,3,United States,5.0,shanghai,foxtrot
+1389,2014,2,United Kingdom,5.0,shanghai,foxtrot
+1390,2014,2,Germany,5.0,shanghai,foxtrot
+1391,2014,2,Italy,5.0,shanghai,foxtrot
+1392,2014,2,Australia,4.0,shanghai,foxtrot
+1393,2014,2,Singapore,1.0,shanghai,foxtrot
+1394,2014,2,United States,5.0,shanghai,foxtrot
+1395,2014,1,Spain,4.0,shanghai,foxtrot
+1396,2014,1,Australia,4.0,shanghai,foxtrot
+1397,2014,1,Japan,5.0,shanghai,foxtrot
+1398,2014,1,Italy,4.0,shanghai,foxtrot
+1399,2014,1,Indonesia,4.0,shanghai,foxtrot
+1400,2014,1,Australia,4.0,shanghai,foxtrot
+1401,2014,1,Australia,4.0,shanghai,foxtrot
+1402,2013,12,Indonesia,5.0,shanghai,foxtrot
+1403,2013,12,Singapore,4.0,shanghai,foxtrot
+1404,2013,12,China,5.0,shanghai,foxtrot
+1405,2013,12,Singapore,5.0,shanghai,foxtrot
+1406,2013,12,United States,5.0,shanghai,foxtrot
+1407,2013,11,Italy,5.0,shanghai,foxtrot
+1408,2013,11,Guernsey,4.0,shanghai,foxtrot
+1409,2013,11,Italy,5.0,shanghai,foxtrot
+1410,2013,11,China,4.0,shanghai,foxtrot
+1411,2013,11,United Kingdom,4.0,shanghai,foxtrot
+1412,2013,11,Singapore,4.0,shanghai,foxtrot
+1413,2013,10,United States,2.0,shanghai,foxtrot
+1414,2013,10,Singapore,4.0,shanghai,foxtrot
+1415,2013,10,United States,3.0,shanghai,foxtrot
+1416,2013,9,Netherlands,2.0,shanghai,foxtrot
+1417,2013,9,Switzerland,5.0,shanghai,foxtrot
+1418,2013,9,Hong Kong,4.0,shanghai,foxtrot
+1419,2013,9,Singapore,4.0,shanghai,foxtrot
+1420,2013,9,Greece,4.0,shanghai,foxtrot
+1421,2013,9,India,4.0,shanghai,foxtrot
+1422,2013,9,United Kingdom,5.0,shanghai,foxtrot
+1423,2013,9,United States,5.0,shanghai,foxtrot
+1424,2013,9,India,4.0,shanghai,foxtrot
+1425,2013,8,United Arab Emirates,4.0,shanghai,foxtrot
+1426,2013,8,Australia,5.0,shanghai,foxtrot
+1427,2013,8,China,4.0,shanghai,foxtrot
+1428,2013,8,Denmark,4.0,shanghai,foxtrot
+1429,2013,8,Italy,4.0,shanghai,foxtrot
+1430,2013,7,United States,5.0,shanghai,foxtrot
+1431,2013,7,China,3.0,shanghai,foxtrot
+1432,2013,7,Canada,3.0,shanghai,foxtrot
+1433,2013,7,South Africa,5.0,shanghai,foxtrot
+1434,2013,7,Italy,5.0,shanghai,foxtrot
+1435,2013,7,Australia,4.0,shanghai,foxtrot
+1436,2013,7,United States,5.0,shanghai,foxtrot
+1437,2013,6,Spain,4.0,shanghai,foxtrot
+1438,2013,6,Malaysia,4.0,shanghai,foxtrot
+1439,2013,6,Australia,5.0,shanghai,foxtrot
+1440,2013,6,Australia,5.0,shanghai,foxtrot
+1441,2013,6,Singapore,5.0,shanghai,foxtrot
+1442,2013,6,United Kingdom,1.0,shanghai,foxtrot
+1443,2013,6,Italy,5.0,shanghai,foxtrot
+1444,2013,6,Switzerland,5.0,shanghai,foxtrot
+1445,2013,6,Malaysia,4.0,shanghai,foxtrot
+1446,2013,6,United States,5.0,shanghai,foxtrot
+1447,2013,6,Iran,4.0,shanghai,foxtrot
+1448,2013,6,United States,4.0,shanghai,foxtrot
+1449,2013,5,Pakistan,5.0,shanghai,foxtrot
+1450,2013,5,Singapore,5.0,shanghai,foxtrot
+1451,2013,5,United Kingdom,5.0,shanghai,foxtrot
+1452,2013,5,Hong Kong,4.0,shanghai,foxtrot
+1453,2013,5,Malaysia,5.0,shanghai,foxtrot
+1454,2013,5,United Kingdom,5.0,shanghai,foxtrot
+1455,2013,4,China,4.0,shanghai,foxtrot
+1456,2013,4,Canada,5.0,shanghai,foxtrot
+1457,2013,4,Australia,4.0,shanghai,foxtrot
+1458,2013,4,Greece,4.0,shanghai,foxtrot
+1459,2013,4,United States,5.0,shanghai,foxtrot
+1460,2013,3,Italy,5.0,shanghai,foxtrot
+1461,2013,3,Singapore,5.0,shanghai,foxtrot
+1462,2013,3,Sweden,4.0,shanghai,foxtrot
+1463,2013,1,China,4.0,shanghai,foxtrot
+1464,2013,1,China,5.0,shanghai,foxtrot
+1465,2013,1,Netherlands,5.0,shanghai,foxtrot
+1466,2012,12,China,5.0,shanghai,foxtrot
+1467,2012,12,Netherlands,5.0,shanghai,foxtrot
+1468,2012,12,China,5.0,shanghai,foxtrot
+1469,2012,11,Singapore,5.0,shanghai,foxtrot
+1470,2012,11,United States,3.0,shanghai,foxtrot
+1471,2012,4,Australia,4.0,shanghai,foxtrot
+1472,2012,4,United States,4.0,shanghai,foxtrot
+1473,2012,4,Singapore,4.0,shanghai,foxtrot
+1474,2012,3,China,3.0,shanghai,foxtrot
+1475,2012,3,France,4.0,shanghai,foxtrot
+1476,2012,3,Philippines,4.0,shanghai,foxtrot
+1477,2011,12,China,4.0,shanghai,foxtrot
+1478,2011,11,Canada,3.0,shanghai,foxtrot
+1479,2011,11,China,5.0,shanghai,foxtrot
+1480,2011,9,Philippines,3.0,shanghai,foxtrot
+1481,2011,9,United States,4.0,shanghai,foxtrot
+1482,2011,8,Hong Kong,4.0,shanghai,foxtrot
+1483,2011,7,Malaysia,4.0,shanghai,foxtrot
+1484,2011,6,Finland,4.0,shanghai,foxtrot
+1485,2010,12,Singapore,4.0,shanghai,foxtrot
+1486,2010,12,Australia,2.0,shanghai,foxtrot
+1487,2010,11,United States,3.0,shanghai,foxtrot
+1488,2010,9,Italy,4.0,shanghai,foxtrot
+1489,2010,9,Switzerland,5.0,shanghai,foxtrot
+1490,2010,9,New Zealand,4.0,shanghai,foxtrot
+1491,2010,9,United States,3.0,shanghai,foxtrot
+1492,2010,8,United States,5.0,shanghai,foxtrot
+1493,2010,6,Singapore,4.0,shanghai,foxtrot
+1494,2010,6,Singapore,5.0,shanghai,foxtrot
+1495,2010,6,Portugal,5.0,shanghai,foxtrot
+1496,2010,5,United States,5.0,shanghai,foxtrot
+1497,2010,5,Australia,4.0,shanghai,foxtrot
+1498,2010,5,Netherlands,2.0,shanghai,foxtrot
+1499,2010,4,China,2.0,shanghai,foxtrot
+1500,2010,1,Japan,5.0,shanghai,foxtrot
+1501,2009,11,United States,5.0,shanghai,foxtrot
+1502,2009,8,Singapore,3.0,shanghai,foxtrot
+1503,2009,6,United States,5.0,shanghai,foxtrot
+1504,2009,4,Singapore,3.0,shanghai,foxtrot
+1505,2009,4,United States,4.0,shanghai,foxtrot
+1506,2008,10,China,2.0,shanghai,foxtrot

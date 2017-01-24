@@ -68,6 +68,8 @@
                      .style('stroke', 'black')
                      .style('stroke-width', 0.5);
 
+        debugger;
+
         function plot_points(data) {
             // draw circles logic
 
@@ -76,7 +78,11 @@
                 return d['attendance'];
               });
 
+              debugger;
+
               var coords = leaves.map(function(d) {
+                console.log([+d.long, +d.lat]);
+                console.log(projection([+d.long, +d.lat]));
                 return projection([+d.long, +d.lat]);
               });
 
@@ -132,10 +138,10 @@
               })
               .enter()
               .append("circle")
-              .attr("cx", function(d) {
+              .attr("cx", function(d) {console.log(d.values['x']);
                 return d.values['x'];
               })
-              .attr("cy", function(d) {
+              .attr("cy", function(d) {console.log(d.values['y']);
                 return d.values['y'];
               })
               .attr('r', function(d) {
