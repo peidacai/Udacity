@@ -54,9 +54,11 @@
             width = 950 - margin,
             height = 580 - margin;
 
+        var hotel_flag = "a";
+
         var radius = 3;
-        var color = "blue";
-        var a_color = "red";
+        var color = "red";
+        var a_color = "#368DB9";
         var home_r = 5;
 
         var indexSeries = data.length/2;
@@ -187,105 +189,85 @@
                              .scale(150)
                              .translate([width/2, height/1.5]);
 
-        function plot_map(geo_data) {
-
-          var svg = d3.select("body")
-            .append("svg")
-            .attr("width", width + margin)
-            .attr("height", height + margin)
-            .append('g')
-            .attr('class', 'map');
-
-          // Defining the path to render pixels onto svg
-          var path = d3.geo.path().projection(projection)
-
-          var map = svg.selectAll('path')
-                       .data(geo_data.features)
-                       .enter()
-                       .append('path')
-                       .attr('d', path)
-                       .style('fill', '#254117')
-                       .style('stroke', '#667C26')
-                       .style('stroke-width', 0.5);
-
-            // function plot_country_(data) {
-
-            //   var country_max = d3.max(data, function(d) {
-            //       return d['country_total'];
-            //     });
-
-            //   var map_radius = d3.scale.sqrt()
-            //                     .domain([0, country_max])
-            //                     .range([0, 20]);
-
-            //   svg.append('g')
-            //     .attr("class", "bubble")
-            //     .selectAll("circle")
-            //     .data(data)
-            //     .enter()
-            //     .append("circle")
-            //     .attr("cx", function(d){
-            //       return projection([+d.lat, +d.long])[0];})
-            //     .attr("cy", function(d){
-            //       return projection([+d.lat, +d.long])[1];})
-            //     .attr('r', function(d) {
-            //       return map_radius(d.country_total)}
-            //       )
-            //     .attr('fill', 'steelBlue')
-            //     .attr('stroke', 'black')
-            //     .attr('stroke-width', 0.7)
-            //     .attr('opacity', 0.8);
-            // };
-
-            // d3.csv("reviewer_country.csv", function(d) {
-            //   d['country_total'] = +d['country_total'];
-            //   return d;
-            //   }, plot_country_);
-      };
-
         function plot_country(countries) {
 
-          var country_max = d3.max(countries, function(d) {
+          var svg = d3.select("body")
+              .append("svg")
+
+          // load geo_json file to plot map
+          d3.json("world_countries.json", function(geo_data) {
+            d3.select("svg")
+              .attr("width", width + margin)
+              .attr("height", height + margin)
+              .append('g')
+              .attr('class', 'map');
+
+            // Defining the path to render pixels onto svg
+            var path = d3.geo.path().projection(projection)
+
+            var map = svg.selectAll('path')
+                         .data(geo_data.features)
+                         .enter()
+                         .append('path')
+                         .attr('d', path)
+                         .style('fill', '#254117')
+                         .style('stroke', '#667C26')
+                         .style('stroke-width', 0.5);
+
+            // Final the highest review count for both hotels so as to keep the scale similar for both hotels
+            var country_max = d3.max(countries, function(d) {
               return d['country_total'];
             });
 
-          var map_radius = d3.scale.sqrt()
-                            .domain([0, country_max])
-                            .range([0, 30]);
+            // Use area of circles to indicate number of reviews per country
+            var map_radius = d3.scale.sqrt()
+                              .domain([0, country_max])
+                              .range([0, 30]);
 
-          d3.select("svg")
-            .append('g')
-            .attr("class", "bubble")
-            .selectAll("circle")
-            .data(countries)
-            .enter()
-            .append("circle")
-            .attr("cx", function(d){
-              return projection([+d.lat, +d.long])[0];})
-            .attr("cy", function(d){
-              return projection([+d.lat, +d.long])[1];})
-            .attr('r', function(d) {
-              return map_radius(d.country_total)}
-              )
-            .attr('fill', function(d) {
-              if (d['hotel'] === 'b') {
-                return "blue";
-              } else {
-                return "red";
-              }
-            })
-            .attr("id", function(d){
-              if (d['hotel'] === 'a') {
-                return "hotel_a";
-              } else {
-                return "hotel_b";
-              }
-                      })
-            .attr('stroke', 'black')
-            .attr('stroke-width', 0.7)
-            .attr('opacity', 0.2)
+            // Filtering the data based on hotel selected
+            if (hotel_flag == "a") {
+              countries = countries.filter(function(d) {
+                return d['hotel'] == "a";
+              });
+            } else {
+              countries = countries.filter(function(d) {
+                return d['hotel'] == "b";
+              });
+            };
+
+            // Adding circles for each country with review
+            d3.select("svg")
+              .append('g')
+              .attr("class", "bubble")
+              .selectAll("circle")
+              .data(countries)
+              .enter()
+              .append("circle")
+              .attr("cx", function(d){
+                return projection([+d.lat, +d.long])[0];})
+              .attr("cy", function(d){
+                return projection([+d.lat, +d.long])[1];})
+              .attr('r', function(d) {
+                return map_radius(d.country_total)}
+                )
+              .attr('fill', function(d) {
+                if (d['hotel'] === 'b') {
+                  return color;
+                } else {
+                  return a_color;
+                }
+              })
+              .attr("id", function(d){
+                if (d['hotel'] === 'a') {
+                  return "hotel_a";
+                } else {
+                  return "hotel_b";
+                }
+                        })
+            });
         };
 
+        // Function to control the actions of each button
         function review_country(button) {
 
           d3.selectAll("svg").remove();
@@ -304,10 +286,10 @@
             // View Hotel A reviewers distribution
             else {
 
-              // load geo_json file to plot map
-              d3.json("world_countries.json", plot_map);
-
               if(button === "Reviewers' Countries for Hotel A") {
+
+                // Set hotel flag to "a"
+                hotel_flag = "a";
 
                 // Change chart title
                 d3.select("h2")
@@ -324,15 +306,13 @@
                   d['country_total'] = +d['country_total'];
                   return d;
                 }, plot_country);
-
-                d3.select("svg")
-                  .selectAll(".bubble")
-                  .selectAll("#hotel_b")
-                  .remove()
               } 
 
               // View Hotel B reviewers distribution
               else {
+
+                // Set hotel flag to b
+                hotel_flag = "b";
 
                 d3.select("h2")
                   .text("Hotel B reviewers country distribution");
@@ -347,11 +327,6 @@
                   d['country_total'] = +d['country_total'];
                   return d;
                 }, plot_country);
-
-                d3.select("svg")
-                  .selectAll(".bubble")
-                  .selectAll("#hotel_a")
-                  .remove()
               }
             }
         };
