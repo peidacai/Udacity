@@ -500,14 +500,12 @@
             .attr("transform", function(d, i) { return "translate(-840," + ((i * 20)-240) + ")"; });
            
           legend.append("rect")
-            .attr("class", "rect_legend")
             .attr("x", width - 18)
             .attr("width", 18)
             .attr("height", 18)
             .style("fill", function(d, i) {return colors.slice()[i];});
            
           legend.append("text")
-            .attr("class", "rect_text")
             .attr("x", width + 5)
             .attr("y", 9)
             .attr("dy", ".35em")
@@ -528,44 +526,6 @@
               .attr("y", 9)
               .style("text-anchor", "start")
               .attr("text", "Hotel A")
-
-          // Transitions to grey out non-essential information
-
-          d3.selectAll(".count_a").transition()
-            .duration(5000)
-            .style("opacity", function(d, i) {
-                if (i === 1) {
-                  return 1;
-                } else {
-                  return 0.25;
-                }});
-
-          d3.selectAll(".count_b").transition()
-            .duration(5000)
-            .style("opacity", function(d, i) {
-                if (i === 1) {
-                  return 1;
-                } else {
-                  return 0.25;
-                }});
-
-          d3.selectAll(".rect_text").transition()
-            .duration(3000)
-            .style("opacity", function(d, i) {
-              if (i === 1) {
-                return 1;
-              } else {
-                return 0.25;
-              }});
-
-          d3.selectAll(".rect_legend").transition()
-            .duration(3000)
-            .style("opacity", function(d, i) {
-              if (i === 1) {
-                return 1;
-              } else {
-                return 0.25;
-              }});
 
             // Prep the tooltip bits, initial display is hidden
             var tooltip = svg.append("g")
@@ -694,7 +654,7 @@
                       .append("div")
                       .attr("class", "hotel_button")
                       .selectAll("div")
-                      .data(["Yearly Trend",  "Reviewers' distribution by continents"])
+                      .data(["Yearly Trend",  "Reviewers' distribution by continents", "Hotel A reviewers' distribution by country", "Hotel B reviewers' distribution by country"])
                       .enter()
                       .append("div")
                       .text(function(d) {
@@ -722,21 +682,6 @@
           review_country(d);
 
           });
-
-        // Adding rectangle to highlight section of line chart
-
-         var rectOne = d3.select("svg")
-                  .append("rect")
-                  .style("fill-opacity", 0);
-
-          rectOne.transition()
-                    .duration(7800)
-                    .attr("x", 592)
-                  .attr("y", margin)
-                  .attr("width", 80)
-                  .attr("height", height-margin)
-                  .style("fill-opacity", 0.3)
-                  .style("fill", "#EDE624");
 
         };
 
